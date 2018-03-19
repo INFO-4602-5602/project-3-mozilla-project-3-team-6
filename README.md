@@ -1,5 +1,3 @@
-# project-3-mozilla
-https://drive.google.com/file/d/0B5UMbl9u1_wQc2l0ZTU0dTdoYnM/view
 <h2>Project 3:</h2>
 Due 4.6.2018 by 11:59pm through GitHub Classroom 
 Projects may be submitted up to 3 days late, with a 10% penalty per day.
@@ -20,7 +18,7 @@ Your project must:
 <li>Include at least three unique visualizations:
   <ul>
   <li>One visualization must include some element of geography</li>
-  <li>One visualization must include qualitative data</li>
+  <li>One visualization must include categorical data</li>
   <li>Each visualization must be interactive</li>
   <li>Your set of three visualizations should support at least one meaningful comparison between related data attributes</li>
   <li>Your set of three visualizations should visualize at least five data attributes total</li></ul></li>
@@ -29,9 +27,8 @@ Your project must:
 
 <h2>Above and Beyond:</h2> 
 The above requirements are the minimum for a passing grade on this project. Some ideas to improve your project include:<ul>
-<li>Dashboarding: Show all three visualizations as part of the same screen.</li>
-<li>Added Visualizations: Provide more than three visualizations</li>
-<li>Dynamic Queries: Including UI widgets that allow you to change the current data field</li>
+<li>Uncertainty: Include sources of uncertainty in your representation, such as margins of error or variance in your computed data</li>
+<li>Semantic Zoom: Allow yourself to zoom into different levels of hierarchically grouped data (e.g., data grouped by continent)</li>
 <li>Missing Data: Not all rows have data for all columns. Design ways of handling missing data intelligently.</li>
 <li>Coordinated Views: Have two or more visualizations that interact with one another as you move through the data.</li>
 <li>Overview+Detail: Provide a pair of views that allow viewers to retain context as they navigate your data.</li>
@@ -62,7 +59,7 @@ All submissions must be made through GitHub with a timestamp by 11:59pm on 4.6. 
 </ul>
 Note that each group only needs to submit one file. 
 
-Each member of the team should also send Danielle & Jim a project post-mortem through email with the subject line "INFO 4602/5602: Project 2" documenting the following:
+Each member of the team should also send Danielle & Jim a project post-mortem through email with the subject line "INFO 4602/5602: Project 3" documenting the following:
 * What you worked on in the project
 * What your teammates worked on in the project
 * How you would rate your performance and why (out of 10 points)
@@ -74,7 +71,7 @@ These documents will be kept confidential and will factor into project grades. I
 The project will be scored out of 100 points total. Your project will be graded on four different criteria:
 <ol>
 <li> Creativity</li>
-<li> Technical execution</li>
+<li> Technical execution (how well does it meet the stakeholder's objectives?)</li>
 <li> Design (both aesthetic and your visualization choices)</li>
 <li> Project Post-Mortems</li>
 </ol>
