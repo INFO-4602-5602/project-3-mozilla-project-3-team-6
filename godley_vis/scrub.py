@@ -101,6 +101,7 @@ def search_data(data, header, criteria):
     for record in range(len(data)):
         if criteria in data[record][header]:
             x.append(record)
+            #y.append(
 
     return x, y
 
