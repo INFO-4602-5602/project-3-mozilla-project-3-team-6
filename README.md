@@ -109,4 +109,8 @@ Converted text responses to ordinal variables.
   <li>Super excited! I can't wait for everything to be connected. My life will be so much better. = 2 </li>
   </ul>
 </ol>
-- removed Other/Custom responses from the raw dataset
+<h4>Bells and Whistles </h4>
+<ol>
+  <li> removed Other/Custom responses from the raw dataset. </li>
+  <li> replaced NaN responses with 0s. </li>
+</ol>
