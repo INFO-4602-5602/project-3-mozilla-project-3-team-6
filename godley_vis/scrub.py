@@ -96,14 +96,40 @@ class ScrubData():
             return pickle.load(open("%s.p" % data_file, "rb"))
             print("Data loaded from %s.p" % self.data_file)
 
-def search_data(data, header, criteria):
-    x, y = []
-    for record in range(len(data)):
-        if criteria in data[record][header]:
-            x.append(record)
-            #y.append(
+def search_data(data, header1, criteria1, header2, criteria2):
+    # Initialize storage variables
+    new_data = {}
 
-    return x, y
+    # Initialize new data dict
+    for crit in criteria1:
+        new_data[crit] = {}
+        new_data[crit]["total"] = 0
+        for crit2 in criteria2:
+            new_data[crit][crit2] = 0
+
+    # Search for relavent entries
+    for record in range(len(data)+1):
+        record = str(record+1)
+        try:
+            for crit in criteria1:
+                if crit in data[record][header1]:
+                    # Count non-empty entries for each criteria in header1
+                    entry = data[record][header1]
+                    if entry != "":
+                        new_data[crit]["total"] += 1
+                        
+                        # Populate secondary criteria for non-empty entries
+                        index = 0
+                        for head in header2:
+                            entry2 = data[record][head]
+                            if entry2 != "":
+                                new_data[crit][criteria2[index]] += 1
+                            index += 1
+                            #print("%s\t| %s\t| %s" % (record, criteria2[index], data[record][head]))
+                    continue
+        except:
+            continue
+    return new_data
 
 def plott(x, y, xlabel="X", ylabel="Y", title="X vs Y"):
     plt.scatter(x, y)
@@ -114,19 +140,20 @@ def plott(x, y, xlabel="X", ylabel="Y", title="X vs Y"):
     plt.show()
 
 if __name__ == "__main__":
+    # Declare scrubber and scrub the csv
     scrubber = ScrubData()
     #scrubber.scrub()
     #scrubber.dump()
-    scrubber.load()
-    record = "1"
-    header = scrubber.header[10]
-    #print("data[%s][%s] = %s" % (record, header, scrubber.data[record][header]))
+    #scrubber.load()
+
+    # Print headers to assist in searching the data
     i = 0
     for header in scrubber.header:
-        print(str(i)+": "+header)
+        #print(str(i)+": "+header)
         i += 1
 
-    quit()
-    search_data(scrubber.data, scrubber.header[7])
-
-
+    # Search data for relavent information
+    #new_data = search_data(scrubber.data, scrubber.header[7], ["Savvy", "Average", "Nerd", "Luddite"], [scrubber.header[8], scrubber.header[9], scrubber.header[10], scrubber.header[11], scrubber.header[12], scrubber.header[13], scrubber.header[14], scrubber.header[15], scrubber.header[16], scrubber.header[17], scrubber.header[18]], ["Wifi_router", "Laptop", "Smart_phone", "Smart_tv", "Activity_tracker", "Smarthome_hub", "Connected_car", "Smart_thermostat", "Smart_appliance", "Smart_door_locks", "Smart_lighting"])
+    #pickle.dump(new_data, open("filtered_data.p", "wb"))
+    new_data = pickle.load(open("filtered_data.p", "rb"))
+    print(new_data)
