@@ -45,6 +45,8 @@ Converted text responses to ordinal variables.
 </ol>
 
 # visualization 2 (Hunter):
-- geographic data
+- choose two "feelings" questions
+- user can select two different values to look at, one from each question
+- dots will be elements by language
 
 # visualization 3 (Chris):
