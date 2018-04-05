@@ -80,13 +80,15 @@ The project will be scored out of 100 points total. Your project will be graded 
 <h2>Visualization 1: Graph Comparison of average  </h2>
 <h3>Contributor: Justin Chin </h3>
 
-Attributes Analyzed/Visualized:
-1. I consider myself:  
-2. Ownership of Electronics (Check all the internet connected devices you currently own: WiFi, Laptop, Smart Phone, Smart TV etc) 
-3. Country
-4. Thinking about a future in which so much of your world is connected to the internet leaves you feeling: 
+<h4>Attributes Analyzed/Visualized: </h4>
+<ol>
+  <li> I consider myself: </li>  
+  <li>Ownership of Electronics (Check all the internet connected devices you currently own: WiFi, Laptop, Smart Phone, Smart TV etc) </li>
+  <li> Country </li>
+  <li> Thinking about a future in which so much of your world is connected to the internet leaves you feeling: </li>
+</ol>
 
-Process
+<h4> Process </h4>
 Converted text responses to ordinal variables.
 <ol>
 <li> I consider myself:
