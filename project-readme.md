@@ -1,17 +1,31 @@
-# Team 6:
-- Justin Chin
-- Kenneth (Hunter) Wapman
-- Christopher Godley
+<h2>Project 3:</h2>
+Due 4.6.2018 by 11:59pm through GitHub Classroom 
+Projects may be submitted up to 3 days late, with a 10% penalty per day.
 
-# How to run it:
-- start up a server (python or otherwise) and open up the index page at the root of the directory. you can navigate to the visualizations from here!
+<h2>Overview: </h2>
+Mozilla (the same company that created the Firefox web browser) recently conducted a survey on people's perceptions of privacy in our modern, highly connected world. The survey was aimed at understanding how comfortable people from all over the world are with various technology and how that comfort varies with things like device ownership or tech savvy. You can learn more about their data here: https://blog.mozilla.org/blog/2017/11/01/10-fascinating-things-we-learned-when-we-asked-the-world-how-connected-are-you/?utm_source=newsletter-mofo&utm_medium=email&utm_campaign=IOTsurveyresults&utm_content=callout&utm_term=4434975
 
-# visualization 1 (Justin):
+The challenge is that, while they have a rich set of data, they don't have strong ways of exploring that data beyond basic spreadsheets and descriptive statistics. Your goal is to create a set of visualizations that allows them to engage with their data. The raw data is available at: https://drive.google.com/file/d/0B5UMbl9u1_wQc2l0ZTU0dTdoYnM/view
 
-# visualization 2 (Hunter):
-- geographic data
+<h2>Minimum Requirements:</h2> 
+Your project must:
+<ul>
+<li> Include a README.md file that outlines:
+  <ul>
+  <li>Information about your visualizations and what they show. Include information about interactions, preprocesses, and design as appropriate.</li>
+  <li>Your design process (e.g., how did you go about designing, building, and refining your system? Why did you choose these representations?)</li>
+  <li>Your team roles for each individual</li>
+  <li>How to run your project</li></ul></li>
+<li>Include at least three unique visualizations:
+  <ul>
+  <li>One visualization must include some element of geography</li>
+  <li>One visualization must include categorical data</li>
+  <li>Each visualization must be interactive</li>
+  <li>Your set of three visualizations should support at least one meaningful comparison between related data attributes</li>
+  <li>Your set of three visualizations should visualize at least five data attributes total</li></ul></li>
+<li>Be able to work with any dataset of this format (e.g., the numbers are interchangable but the columns and document titles are fixed).</li>
+</ul>
 
-<<<<<<< HEAD
 <h2>Above and Beyond:</h2> 
 The above requirements are the minimum for a passing grade on this project. Some ideas to improve your project include:<ul>
 <li>Uncertainty: Include sources of uncertainty in your representation, such as margins of error or variance in your computed data</li>
@@ -62,44 +76,3 @@ The project will be scored out of 100 points total. Your project will be graded 
 <li> Design (both aesthetic and your visualization choices)</li>
 <li> Project Post-Mortems</li>
 </ol>
-
-<h2>Visualization 1: Graph Comparison of average  </h2>
-<h3>Contributor: Justin Chin </h3>
-
-<h4>Attributes Analyzed/Visualized: </h4>
-<ol>
-  <li> I consider myself: </li>  
-  <li>Ownership of Electronics (Check all the internet connected devices you currently own: WiFi, Laptop, Smart Phone, Smart TV etc) </li>
-  <li> Country </li>
-  <li> Thinking about a future in which so much of your world is connected to the internet leaves you feeling: </li>
-</ol>
-
-<h4> Process </h4>
-Converted text responses to ordinal variables.
-<ol>
-<li> I consider myself:
- <ul>
-  <li> Ultra Nerd:  I build my own computers, run my own servers, code my own apps. I'm basically Mr. Robot. = 4 </li>
-  <li> Technically Savvy:   I know my way around a computer pretty well. When anyone in my family needs technical help, I'm the one they call. = 3 </li>
-  <li> Average User:   I know enough to get by. = 2 </li>
-  <li> Luddite:  Technology scares me! I only use it when I have to. = 1 </li>
- </ul>
-</li>
-<li> Ownership of Electronics (Sum of owned electronics from 0-1) </li> 
-<li> Thinking about a future in which so much of your world is connected to the internet leaves you feeling:  </li>
- <ul>
-  <li>Scared as hell. The future where everything is connected has me scared senseless. We are all doomed! = -2 </li>
-  <li>A little wary. All this being connected to the internet in every part of our lives makes me a little nervous. What is going to happen to our privacy? = -1 </li>
-  <li>On the fence.  I'm not sure about all this. I think I'll wait and see. = 0 </li>
-  <li>Cautiously optimistic. I am hopeful we are building a better world by becoming more connected in everything we do. = 1 </li>
-  <li>Super excited! I can't wait for everything to be connected. My life will be so much better. = 2 </li>
-  </ul>
-</ol>
-<h4>Bells and Whistles </h4>
-<ol>
-  <li> removed Other/Custom responses from the raw dataset. </li>
-  <li> replaced NaN responses with 0s. </li>
-</ol>
-=======
-# visualization 3 (Chris):
->>>>>>> 8e4db31e150dff851f0a3f61f9ac9627f69aaeb6
