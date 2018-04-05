@@ -76,3 +76,35 @@ The project will be scored out of 100 points total. Your project will be graded 
 <li> Design (both aesthetic and your visualization choices)</li>
 <li> Project Post-Mortems</li>
 </ol>
+
+<h2>Visualization 1: Graph Comparison of average  </h2>
+<h3>Contributor: Justin Chin </h3>
+
+Attributes Analyzed/Visualized:
+1. I consider myself:  
+2. Ownership of Electronics (Check all the internet connected devices you currently own: WiFi, Laptop, Smart Phone, Smart TV etc) 
+3. Country
+4. Thinking about a future in which so much of your world is connected to the internet leaves you feeling: 
+
+Process
+Converted text responses to ordinal variables.
+<ol>
+<li> I consider myself:
+ <ul>
+  <li> Ultra Nerd:  I build my own computers, run my own servers, code my own apps. I'm basically Mr. Robot. = 4 </li>
+  <li> Technically Savvy:   I know my way around a computer pretty well. When anyone in my family needs technical help, I'm the one they call. = 3 </li>
+  <li> Average User:   I know enough to get by. = 2 </li>
+  <li> Luddite:  Technology scares me! I only use it when I have to. = 1 </li>
+ </ul>
+</li>
+<li> Ownership of Electronics (Sum of owned electronics from 0-1) </li> 
+<li> Thinking about a future in which so much of your world is connected to the internet leaves you feeling:  </li>
+ <ul>
+  <li>Scared as hell. The future where everything is connected has me scared senseless. We are all doomed! = -2 </li>
+  <li>A little wary. All this being connected to the internet in every part of our lives makes me a little nervous. What is going to happen to our privacy? = -1 </li>
+  <li>On the fence.  I'm not sure about all this. I think I'll wait and see. = 0 </li>
+  <li>Cautiously optimistic. I am hopeful we are building a better world by becoming more connected in everything we do. = 1 </li>
+  <li>Super excited! I can't wait for everything to be connected. My life will be so much better. = 2 </li>
+  </ul>
+</ol>
+- removed Other/Custom responses from the raw dataset
