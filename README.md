@@ -47,6 +47,8 @@ Converted text responses to ordinal variables.
 
 <h4>Chart Description</h4>
 - Question 1: Is the average number of owned electronics or "knowledge of technology" correlated to each country's average sentiment for the future of tech?  This is answered with two coordinated scatter plots that plots each of these averaged values versus the average sentiment.
+- Hovering over each point, which represented a country, popped up with a tooltip showing the country's name as well as the number of surveys submitted.
+
 - Question 2: For a country, what is the distribution of individual responses based on their sentiment for the future of tech?  We can drill down and look at the distribution of each sentiment response groups to see if there are any correlations since this is likely hidden when calculating overall averages.  For example, for a country, like the US, did survey responders who reported having a negative outlook of the future own more electronics or were more knowledgable about technology?  
 - This question was answered by plotting boxplot of each question answered for a selected country by each binned sentiment response (-2,-1,0,1,2).
 - A dropdown menu allowed the user to select which country he/she would like to drilldown and inspect the distribution of responses.
