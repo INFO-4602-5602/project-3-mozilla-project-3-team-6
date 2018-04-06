@@ -1,0 +1,2835 @@
+sentiment,country,question,count
+positive,,,1
+positive,,How much fun it will be,2
+positive,,How it will make us all smarter and better educated,12
+positive,,How easy it will make life,26
+positive,,How it will bring the world together,10
+positive,,Other (please specify),5
+positive,,None of the above,14
+negative,,,2
+negative,,WeÛªll lose touch with one another,0
+negative,,The loss of privacy,41
+negative,,I have no fears about a more connected future,2
+negative,,Other (please specify),6
+negative,,WeÛªll be less safe,0
+positive,Yemen,,2
+positive,Yemen,How much fun it will be,0
+positive,Yemen,How it will make us all smarter and better educated,1
+positive,Yemen,How easy it will make life,0
+positive,Yemen,How it will bring the world together,0
+positive,Yemen,Other (please specify),0
+positive,Yemen,None of the above,1
+negative,Yemen,,2
+negative,Yemen,WeÛªll lose touch with one another,0
+negative,Yemen,The loss of privacy,1
+negative,Yemen,I have no fears about a more connected future,0
+negative,Yemen,Other (please specify),0
+negative,Yemen,WeÛªll be less safe,0
+positive,Philippines,,64
+positive,Philippines,How much fun it will be,35
+positive,Philippines,How it will make us all smarter and better educated,119
+positive,Philippines,How easy it will make life,110
+positive,Philippines,How it will bring the world together,86
+positive,Philippines,Other (please specify),23
+positive,Philippines,None of the above,43
+negative,Philippines,,65
+negative,Philippines,WeÛªll lose touch with one another,0
+negative,Philippines,The loss of privacy,229
+negative,Philippines,I have no fears about a more connected future,23
+negative,Philippines,Other (please specify),30
+negative,Philippines,WeÛªll be less safe,0
+positive,Suriname,,1
+positive,Suriname,How much fun it will be,0
+positive,Suriname,How it will make us all smarter and better educated,2
+positive,Suriname,How easy it will make life,0
+positive,Suriname,How it will bring the world together,1
+positive,Suriname,Other (please specify),0
+positive,Suriname,None of the above,0
+negative,Suriname,,1
+negative,Suriname,WeÛªll lose touch with one another,0
+negative,Suriname,The loss of privacy,2
+negative,Suriname,I have no fears about a more connected future,0
+negative,Suriname,Other (please specify),0
+negative,Suriname,WeÛªll be less safe,0
+positive,Guyana,,2
+positive,Guyana,How much fun it will be,0
+positive,Guyana,How it will make us all smarter and better educated,3
+positive,Guyana,How easy it will make life,3
+positive,Guyana,How it will bring the world together,4
+positive,Guyana,Other (please specify),0
+positive,Guyana,None of the above,3
+negative,Guyana,,2
+negative,Guyana,WeÛªll lose touch with one another,0
+negative,Guyana,The loss of privacy,6
+negative,Guyana,I have no fears about a more connected future,3
+negative,Guyana,Other (please specify),0
+negative,Guyana,WeÛªll be less safe,0
+positive,Belarus,,0
+positive,Belarus,How much fun it will be,3
+positive,Belarus,How it will make us all smarter and better educated,7
+positive,Belarus,How easy it will make life,8
+positive,Belarus,How it will bring the world together,3
+positive,Belarus,Other (please specify),1
+positive,Belarus,None of the above,4
+negative,Belarus,,0
+negative,Belarus,WeÛªll lose touch with one another,0
+negative,Belarus,The loss of privacy,12
+negative,Belarus,I have no fears about a more connected future,3
+negative,Belarus,Other (please specify),1
+negative,Belarus,WeÛªll be less safe,0
+positive,New Caledonia,,9
+positive,New Caledonia,How much fun it will be,14
+positive,New Caledonia,How it will make us all smarter and better educated,20
+positive,New Caledonia,How easy it will make life,36
+positive,New Caledonia,How it will bring the world together,17
+positive,New Caledonia,Other (please specify),12
+positive,New Caledonia,None of the above,33
+negative,New Caledonia,,8
+negative,New Caledonia,WeÛªll lose touch with one another,0
+negative,New Caledonia,The loss of privacy,72
+negative,New Caledonia,I have no fears about a more connected future,5
+negative,New Caledonia,Other (please specify),9
+negative,New Caledonia,WeÛªll be less safe,0
+positive,Belize,,0
+positive,Belize,How much fun it will be,1
+positive,Belize,How it will make us all smarter and better educated,1
+positive,Belize,How easy it will make life,2
+positive,Belize,How it will bring the world together,1
+positive,Belize,Other (please specify),1
+positive,Belize,None of the above,3
+negative,Belize,,0
+negative,Belize,WeÛªll lose touch with one another,0
+negative,Belize,The loss of privacy,5
+negative,Belize,I have no fears about a more connected future,0
+negative,Belize,Other (please specify),1
+negative,Belize,WeÛªll be less safe,0
+positive,Germany,,1095
+positive,Germany,How much fun it will be,2016
+positive,Germany,How it will make us all smarter and better educated,2898
+positive,Germany,How easy it will make life,6091
+positive,Germany,How it will bring the world together,4836
+positive,Germany,Other (please specify),1195
+positive,Germany,None of the above,6848
+negative,Germany,,1130
+negative,Germany,WeÛªll lose touch with one another,0
+negative,Germany,The loss of privacy,11748
+negative,Germany,I have no fears about a more connected future,1869
+negative,Germany,Other (please specify),2030
+negative,Germany,WeÛªll be less safe,0
+positive,Oman,,3
+positive,Oman,How much fun it will be,0
+positive,Oman,How it will make us all smarter and better educated,5
+positive,Oman,How easy it will make life,6
+positive,Oman,How it will bring the world together,3
+positive,Oman,Other (please specify),0
+positive,Oman,None of the above,2
+negative,Oman,,4
+negative,Oman,WeÛªll lose touch with one another,0
+negative,Oman,The loss of privacy,7
+negative,Oman,I have no fears about a more connected future,1
+negative,Oman,Other (please specify),1
+negative,Oman,WeÛªll be less safe,0
+positive,Solomon Islands,,0
+positive,Solomon Islands,How much fun it will be,1
+positive,Solomon Islands,How it will make us all smarter and better educated,0
+positive,Solomon Islands,How easy it will make life,0
+positive,Solomon Islands,How it will bring the world together,0
+positive,Solomon Islands,Other (please specify),0
+positive,Solomon Islands,None of the above,1
+negative,Solomon Islands,,0
+negative,Solomon Islands,WeÛªll lose touch with one another,0
+negative,Solomon Islands,The loss of privacy,1
+negative,Solomon Islands,I have no fears about a more connected future,0
+negative,Solomon Islands,Other (please specify),0
+negative,Solomon Islands,WeÛªll be less safe,0
+positive,Saint Pierre and Miquelon,,0
+positive,Saint Pierre and Miquelon,How much fun it will be,1
+positive,Saint Pierre and Miquelon,How it will make us all smarter and better educated,0
+positive,Saint Pierre and Miquelon,How easy it will make life,1
+positive,Saint Pierre and Miquelon,How it will bring the world together,0
+positive,Saint Pierre and Miquelon,Other (please specify),1
+positive,Saint Pierre and Miquelon,None of the above,3
+negative,Saint Pierre and Miquelon,,0
+negative,Saint Pierre and Miquelon,WeÛªll lose touch with one another,0
+negative,Saint Pierre and Miquelon,The loss of privacy,3
+negative,Saint Pierre and Miquelon,I have no fears about a more connected future,0
+negative,Saint Pierre and Miquelon,Other (please specify),3
+negative,Saint Pierre and Miquelon,WeÛªll be less safe,0
+positive,Afghanistan,,6
+positive,Afghanistan,How much fun it will be,0
+positive,Afghanistan,How it will make us all smarter and better educated,3
+positive,Afghanistan,How easy it will make life,4
+positive,Afghanistan,How it will bring the world together,1
+positive,Afghanistan,Other (please specify),1
+positive,Afghanistan,None of the above,0
+negative,Afghanistan,,7
+negative,Afghanistan,WeÛªll lose touch with one another,0
+negative,Afghanistan,The loss of privacy,1
+negative,Afghanistan,I have no fears about a more connected future,3
+negative,Afghanistan,Other (please specify),1
+negative,Afghanistan,WeÛªll be less safe,0
+positive,Iran, Islamic Republic of,,391
+positive,Iran, Islamic Republic of,How much fun it will be,27
+positive,Iran, Islamic Republic of,How it will make us all smarter and better educated,53
+positive,Iran, Islamic Republic of,How easy it will make life,102
+positive,Iran, Islamic Republic of,How it will bring the world together,40
+positive,Iran, Islamic Republic of,Other (please specify),23
+positive,Iran, Islamic Republic of,None of the above,17
+negative,Iran, Islamic Republic of,,404
+negative,Iran, Islamic Republic of,WeÛªll lose touch with one another,0
+negative,Iran, Islamic Republic of,The loss of privacy,96
+negative,Iran, Islamic Republic of,I have no fears about a more connected future,39
+negative,Iran, Islamic Republic of,Other (please specify),15
+negative,Iran, Islamic Republic of,WeÛªll be less safe,0
+positive,Switzerland,,131
+positive,Switzerland,How much fun it will be,276
+positive,Switzerland,How it will make us all smarter and better educated,424
+positive,Switzerland,How easy it will make life,902
+positive,Switzerland,How it will bring the world together,491
+positive,Switzerland,Other (please specify),333
+positive,Switzerland,None of the above,1140
+negative,Switzerland,,126
+negative,Switzerland,WeÛªll lose touch with one another,0
+negative,Switzerland,The loss of privacy,1615
+negative,Switzerland,I have no fears about a more connected future,254
+negative,Switzerland,Other (please specify),353
+negative,Switzerland,WeÛªll be less safe,0
+positive,Asia/Pacific Region,,0
+positive,Asia/Pacific Region,How much fun it will be,0
+positive,Asia/Pacific Region,How it will make us all smarter and better educated,1
+positive,Asia/Pacific Region,How easy it will make life,2
+positive,Asia/Pacific Region,How it will bring the world together,4
+positive,Asia/Pacific Region,Other (please specify),3
+positive,Asia/Pacific Region,None of the above,1
+negative,Asia/Pacific Region,,0
+negative,Asia/Pacific Region,WeÛªll lose touch with one another,0
+negative,Asia/Pacific Region,The loss of privacy,5
+negative,Asia/Pacific Region,I have no fears about a more connected future,0
+negative,Asia/Pacific Region,Other (please specify),1
+negative,Asia/Pacific Region,WeÛªll be less safe,0
+positive,Italy,,1397
+positive,Italy,How much fun it will be,1506
+positive,Italy,How it will make us all smarter and better educated,3028
+positive,Italy,How easy it will make life,8789
+positive,Italy,How it will bring the world together,4672
+positive,Italy,Other (please specify),2521
+positive,Italy,None of the above,7093
+negative,Italy,,1444
+negative,Italy,WeÛªll lose touch with one another,0
+negative,Italy,The loss of privacy,7755
+negative,Italy,I have no fears about a more connected future,1497
+negative,Italy,Other (please specify),1479
+negative,Italy,WeÛªll be less safe,0
+positive,Cape Verde,,0
+positive,Cape Verde,How much fun it will be,0
+positive,Cape Verde,How it will make us all smarter and better educated,1
+positive,Cape Verde,How easy it will make life,1
+positive,Cape Verde,How it will bring the world together,4
+positive,Cape Verde,Other (please specify),0
+positive,Cape Verde,None of the above,0
+negative,Cape Verde,,0
+negative,Cape Verde,WeÛªll lose touch with one another,0
+negative,Cape Verde,The loss of privacy,2
+negative,Cape Verde,I have no fears about a more connected future,3
+negative,Cape Verde,Other (please specify),0
+negative,Cape Verde,WeÛªll be less safe,0
+positive,Hong Kong,,3
+positive,Hong Kong,How much fun it will be,10
+positive,Hong Kong,How it will make us all smarter and better educated,15
+positive,Hong Kong,How easy it will make life,26
+positive,Hong Kong,How it will bring the world together,9
+positive,Hong Kong,Other (please specify),5
+positive,Hong Kong,None of the above,8
+negative,Hong Kong,,4
+negative,Hong Kong,WeÛªll lose touch with one another,0
+negative,Hong Kong,The loss of privacy,41
+negative,Hong Kong,I have no fears about a more connected future,2
+negative,Hong Kong,Other (please specify),8
+negative,Hong Kong,WeÛªll be less safe,0
+positive,Estonia,,1
+positive,Estonia,How much fun it will be,5
+positive,Estonia,How it will make us all smarter and better educated,12
+positive,Estonia,How easy it will make life,17
+positive,Estonia,How it will bring the world together,6
+positive,Estonia,Other (please specify),1
+positive,Estonia,None of the above,10
+negative,Estonia,,1
+negative,Estonia,WeÛªll lose touch with one another,0
+negative,Estonia,The loss of privacy,20
+negative,Estonia,I have no fears about a more connected future,3
+negative,Estonia,Other (please specify),4
+negative,Estonia,WeÛªll be less safe,0
+positive,New Zealand,,11
+positive,New Zealand,How much fun it will be,41
+positive,New Zealand,How it will make us all smarter and better educated,112
+positive,New Zealand,How easy it will make life,77
+positive,New Zealand,How it will bring the world together,108
+positive,New Zealand,Other (please specify),55
+positive,New Zealand,None of the above,183
+negative,New Zealand,,12
+negative,New Zealand,WeÛªll lose touch with one another,0
+negative,New Zealand,The loss of privacy,267
+negative,New Zealand,I have no fears about a more connected future,25
+negative,New Zealand,Other (please specify),64
+negative,New Zealand,WeÛªll be less safe,0
+positive,American Samoa,,0
+positive,American Samoa,How much fun it will be,0
+positive,American Samoa,How it will make us all smarter and better educated,0
+positive,American Samoa,How easy it will make life,0
+positive,American Samoa,How it will bring the world together,0
+positive,American Samoa,Other (please specify),0
+positive,American Samoa,None of the above,1
+negative,American Samoa,,0
+negative,American Samoa,WeÛªll lose touch with one another,0
+negative,American Samoa,The loss of privacy,0
+negative,American Samoa,I have no fears about a more connected future,0
+negative,American Samoa,Other (please specify),1
+negative,American Samoa,WeÛªll be less safe,0
+positive,Micronesia, Federated States of,,0
+positive,Micronesia, Federated States of,How much fun it will be,0
+positive,Micronesia, Federated States of,How it will make us all smarter and better educated,1
+positive,Micronesia, Federated States of,How easy it will make life,0
+positive,Micronesia, Federated States of,How it will bring the world together,0
+positive,Micronesia, Federated States of,Other (please specify),0
+positive,Micronesia, Federated States of,None of the above,0
+negative,Micronesia, Federated States of,,0
+negative,Micronesia, Federated States of,WeÛªll lose touch with one another,0
+negative,Micronesia, Federated States of,The loss of privacy,0
+negative,Micronesia, Federated States of,I have no fears about a more connected future,0
+negative,Micronesia, Federated States of,Other (please specify),0
+negative,Micronesia, Federated States of,WeÛªll be less safe,0
+positive,South Africa,,12
+positive,South Africa,How much fun it will be,45
+positive,South Africa,How it will make us all smarter and better educated,127
+positive,South Africa,How easy it will make life,112
+positive,South Africa,How it will bring the world together,67
+positive,South Africa,Other (please specify),36
+positive,South Africa,None of the above,69
+negative,South Africa,,20
+negative,South Africa,WeÛªll lose touch with one another,0
+negative,South Africa,The loss of privacy,219
+negative,South Africa,I have no fears about a more connected future,45
+negative,South Africa,Other (please specify),35
+negative,South Africa,WeÛªll be less safe,0
+positive,Reunion,,24
+positive,Reunion,How much fun it will be,25
+positive,Reunion,How it will make us all smarter and better educated,49
+positive,Reunion,How easy it will make life,87
+positive,Reunion,How it will bring the world together,51
+positive,Reunion,Other (please specify),36
+positive,Reunion,None of the above,118
+negative,Reunion,,20
+negative,Reunion,WeÛªll lose touch with one another,0
+negative,Reunion,The loss of privacy,197
+negative,Reunion,I have no fears about a more connected future,21
+negative,Reunion,Other (please specify),21
+negative,Reunion,WeÛªll be less safe,0
+positive,Somalia,,8
+positive,Somalia,How much fun it will be,0
+positive,Somalia,How it will make us all smarter and better educated,1
+positive,Somalia,How easy it will make life,0
+positive,Somalia,How it will bring the world together,1
+positive,Somalia,Other (please specify),1
+positive,Somalia,None of the above,0
+negative,Somalia,,9
+negative,Somalia,WeÛªll lose touch with one another,0
+negative,Somalia,The loss of privacy,1
+negative,Somalia,I have no fears about a more connected future,0
+negative,Somalia,Other (please specify),0
+negative,Somalia,WeÛªll be less safe,0
+positive,Central African Republic,,0
+positive,Central African Republic,How much fun it will be,0
+positive,Central African Republic,How it will make us all smarter and better educated,0
+positive,Central African Republic,How easy it will make life,1
+positive,Central African Republic,How it will bring the world together,0
+positive,Central African Republic,Other (please specify),0
+positive,Central African Republic,None of the above,0
+negative,Central African Republic,,0
+negative,Central African Republic,WeÛªll lose touch with one another,0
+negative,Central African Republic,The loss of privacy,0
+negative,Central African Republic,I have no fears about a more connected future,0
+negative,Central African Republic,Other (please specify),1
+negative,Central African Republic,WeÛªll be less safe,0
+positive,Finland,,0
+positive,Finland,How much fun it will be,20
+positive,Finland,How it will make us all smarter and better educated,39
+positive,Finland,How easy it will make life,55
+positive,Finland,How it will bring the world together,37
+positive,Finland,Other (please specify),21
+positive,Finland,None of the above,45
+negative,Finland,,1
+negative,Finland,WeÛªll lose touch with one another,0
+negative,Finland,The loss of privacy,111
+negative,Finland,I have no fears about a more connected future,9
+negative,Finland,Other (please specify),19
+negative,Finland,WeÛªll be less safe,0
+positive,Bangladesh,,470
+positive,Bangladesh,How much fun it will be,29
+positive,Bangladesh,How it will make us all smarter and better educated,85
+positive,Bangladesh,How easy it will make life,151
+positive,Bangladesh,How it will bring the world together,64
+positive,Bangladesh,Other (please specify),18
+positive,Bangladesh,None of the above,23
+negative,Bangladesh,,477
+negative,Bangladesh,WeÛªll lose touch with one another,0
+negative,Bangladesh,The loss of privacy,154
+negative,Bangladesh,I have no fears about a more connected future,48
+negative,Bangladesh,Other (please specify),15
+negative,Bangladesh,WeÛªll be less safe,0
+positive,Brunei Darussalam,,0
+positive,Brunei Darussalam,How much fun it will be,0
+positive,Brunei Darussalam,How it will make us all smarter and better educated,2
+positive,Brunei Darussalam,How easy it will make life,5
+positive,Brunei Darussalam,How it will bring the world together,3
+positive,Brunei Darussalam,Other (please specify),0
+positive,Brunei Darussalam,None of the above,2
+negative,Brunei Darussalam,,1
+negative,Brunei Darussalam,WeÛªll lose touch with one another,0
+negative,Brunei Darussalam,The loss of privacy,5
+negative,Brunei Darussalam,I have no fears about a more connected future,0
+negative,Brunei Darussalam,Other (please specify),1
+negative,Brunei Darussalam,WeÛªll be less safe,0
+positive,Jersey,,1
+positive,Jersey,How much fun it will be,2
+positive,Jersey,How it will make us all smarter and better educated,0
+positive,Jersey,How easy it will make life,6
+positive,Jersey,How it will bring the world together,2
+positive,Jersey,Other (please specify),0
+positive,Jersey,None of the above,3
+negative,Jersey,,0
+negative,Jersey,WeÛªll lose touch with one another,0
+negative,Jersey,The loss of privacy,7
+negative,Jersey,I have no fears about a more connected future,1
+negative,Jersey,Other (please specify),0
+negative,Jersey,WeÛªll be less safe,0
+positive,Jordan,,2
+positive,Jordan,How much fun it will be,4
+positive,Jordan,How it will make us all smarter and better educated,8
+positive,Jordan,How easy it will make life,6
+positive,Jordan,How it will bring the world together,4
+positive,Jordan,Other (please specify),3
+positive,Jordan,None of the above,3
+negative,Jordan,,2
+negative,Jordan,WeÛªll lose touch with one another,0
+negative,Jordan,The loss of privacy,12
+negative,Jordan,I have no fears about a more connected future,3
+negative,Jordan,Other (please specify),3
+negative,Jordan,WeÛªll be less safe,0
+positive,Aruba,,0
+positive,Aruba,How much fun it will be,0
+positive,Aruba,How it will make us all smarter and better educated,1
+positive,Aruba,How easy it will make life,1
+positive,Aruba,How it will bring the world together,1
+positive,Aruba,Other (please specify),0
+positive,Aruba,None of the above,0
+negative,Aruba,,0
+negative,Aruba,WeÛªll lose touch with one another,0
+negative,Aruba,The loss of privacy,0
+negative,Aruba,I have no fears about a more connected future,0
+negative,Aruba,Other (please specify),0
+negative,Aruba,WeÛªll be less safe,0
+positive,Christmas Island,,0
+positive,Christmas Island,How much fun it will be,0
+positive,Christmas Island,How it will make us all smarter and better educated,0
+positive,Christmas Island,How easy it will make life,0
+positive,Christmas Island,How it will bring the world together,1
+positive,Christmas Island,Other (please specify),0
+positive,Christmas Island,None of the above,0
+negative,Christmas Island,,0
+negative,Christmas Island,WeÛªll lose touch with one another,0
+negative,Christmas Island,The loss of privacy,0
+negative,Christmas Island,I have no fears about a more connected future,0
+negative,Christmas Island,Other (please specify),0
+negative,Christmas Island,WeÛªll be less safe,0
+positive,Haiti,,10
+positive,Haiti,How much fun it will be,3
+positive,Haiti,How it will make us all smarter and better educated,11
+positive,Haiti,How easy it will make life,6
+positive,Haiti,How it will bring the world together,1
+positive,Haiti,Other (please specify),0
+positive,Haiti,None of the above,3
+negative,Haiti,,10
+negative,Haiti,WeÛªll lose touch with one another,0
+negative,Haiti,The loss of privacy,9
+negative,Haiti,I have no fears about a more connected future,5
+negative,Haiti,Other (please specify),1
+negative,Haiti,WeÛªll be less safe,0
+positive,Portugal,,16
+positive,Portugal,How much fun it will be,20
+positive,Portugal,How it will make us all smarter and better educated,52
+positive,Portugal,How easy it will make life,71
+positive,Portugal,How it will bring the world together,51
+positive,Portugal,Other (please specify),18
+positive,Portugal,None of the above,89
+negative,Portugal,,14
+negative,Portugal,WeÛªll lose touch with one another,0
+negative,Portugal,The loss of privacy,154
+negative,Portugal,I have no fears about a more connected future,12
+negative,Portugal,Other (please specify),19
+negative,Portugal,WeÛªll be less safe,0
+positive,Guatemala,,26
+positive,Guatemala,How much fun it will be,56
+positive,Guatemala,How it will make us all smarter and better educated,71
+positive,Guatemala,How easy it will make life,139
+positive,Guatemala,How it will bring the world together,36
+positive,Guatemala,Other (please specify),22
+positive,Guatemala,None of the above,88
+negative,Guatemala,,32
+negative,Guatemala,WeÛªll lose touch with one another,0
+negative,Guatemala,The loss of privacy,208
+negative,Guatemala,I have no fears about a more connected future,40
+negative,Guatemala,Other (please specify),14
+negative,Guatemala,WeÛªll be less safe,0
+positive,Spain,,218
+positive,Spain,How much fun it will be,518
+positive,Spain,How it will make us all smarter and better educated,589
+positive,Spain,How easy it will make life,1526
+positive,Spain,How it will bring the world together,723
+positive,Spain,Other (please specify),586
+positive,Spain,None of the above,1691
+negative,Spain,,259
+negative,Spain,WeÛªll lose touch with one another,0
+negative,Spain,The loss of privacy,2933
+negative,Spain,I have no fears about a more connected future,454
+negative,Spain,Other (please specify),447
+negative,Spain,WeÛªll be less safe,0
+positive,Canada,,134
+positive,Canada,How much fun it will be,328
+positive,Canada,How it will make us all smarter and better educated,700
+positive,Canada,How easy it will make life,745
+positive,Canada,How it will bring the world together,693
+positive,Canada,Other (please specify),490
+positive,Canada,None of the above,1350
+negative,Canada,,144
+negative,Canada,WeÛªll lose touch with one another,0
+negative,Canada,The loss of privacy,2083
+negative,Canada,I have no fears about a more connected future,286
+negative,Canada,Other (please specify),553
+negative,Canada,WeÛªll be less safe,0
+positive,Norway,,4
+positive,Norway,How much fun it will be,28
+positive,Norway,How it will make us all smarter and better educated,44
+positive,Norway,How easy it will make life,53
+positive,Norway,How it will bring the world together,43
+positive,Norway,Other (please specify),19
+positive,Norway,None of the above,54
+negative,Norway,,4
+negative,Norway,WeÛªll lose touch with one another,0
+negative,Norway,The loss of privacy,127
+negative,Norway,I have no fears about a more connected future,11
+negative,Norway,Other (please specify),29
+negative,Norway,WeÛªll be less safe,0
+positive,Honduras,,18
+positive,Honduras,How much fun it will be,32
+positive,Honduras,How it will make us all smarter and better educated,42
+positive,Honduras,How easy it will make life,52
+positive,Honduras,How it will bring the world together,18
+positive,Honduras,Other (please specify),12
+positive,Honduras,None of the above,29
+negative,Honduras,,18
+negative,Honduras,WeÛªll lose touch with one another,0
+negative,Honduras,The loss of privacy,86
+negative,Honduras,I have no fears about a more connected future,16
+negative,Honduras,Other (please specify),9
+negative,Honduras,WeÛªll be less safe,0
+positive,Jamaica,,1
+positive,Jamaica,How much fun it will be,1
+positive,Jamaica,How it will make us all smarter and better educated,5
+positive,Jamaica,How easy it will make life,7
+positive,Jamaica,How it will bring the world together,6
+positive,Jamaica,Other (please specify),2
+positive,Jamaica,None of the above,6
+negative,Jamaica,,1
+negative,Jamaica,WeÛªll lose touch with one another,0
+negative,Jamaica,The loss of privacy,16
+negative,Jamaica,I have no fears about a more connected future,3
+negative,Jamaica,Other (please specify),0
+negative,Jamaica,WeÛªll be less safe,0
+positive,Romania,,48
+positive,Romania,How much fun it will be,24
+positive,Romania,How it will make us all smarter and better educated,74
+positive,Romania,How easy it will make life,105
+positive,Romania,How it will bring the world together,60
+positive,Romania,Other (please specify),12
+positive,Romania,None of the above,85
+negative,Romania,,47
+negative,Romania,WeÛªll lose touch with one another,0
+negative,Romania,The loss of privacy,163
+negative,Romania,I have no fears about a more connected future,40
+negative,Romania,Other (please specify),15
+negative,Romania,WeÛªll be less safe,0
+positive,Iraq,,25
+positive,Iraq,How much fun it will be,4
+positive,Iraq,How it will make us all smarter and better educated,6
+positive,Iraq,How easy it will make life,5
+positive,Iraq,How it will bring the world together,1
+positive,Iraq,Other (please specify),2
+positive,Iraq,None of the above,5
+negative,Iraq,,25
+negative,Iraq,WeÛªll lose touch with one another,0
+negative,Iraq,The loss of privacy,13
+negative,Iraq,I have no fears about a more connected future,2
+negative,Iraq,Other (please specify),2
+negative,Iraq,WeÛªll be less safe,0
+positive,Morocco,,289
+positive,Morocco,How much fun it will be,42
+positive,Morocco,How it will make us all smarter and better educated,129
+positive,Morocco,How easy it will make life,160
+positive,Morocco,How it will bring the world together,73
+positive,Morocco,Other (please specify),39
+positive,Morocco,None of the above,77
+negative,Morocco,,279
+negative,Morocco,WeÛªll lose touch with one another,0
+negative,Morocco,The loss of privacy,200
+negative,Morocco,I have no fears about a more connected future,56
+negative,Morocco,Other (please specify),36
+negative,Morocco,WeÛªll be less safe,0
+positive,Uganda,,17
+positive,Uganda,How much fun it will be,3
+positive,Uganda,How it will make us all smarter and better educated,14
+positive,Uganda,How easy it will make life,17
+positive,Uganda,How it will bring the world together,14
+positive,Uganda,Other (please specify),4
+positive,Uganda,None of the above,4
+negative,Uganda,,18
+negative,Uganda,WeÛªll lose touch with one another,0
+negative,Uganda,The loss of privacy,27
+negative,Uganda,I have no fears about a more connected future,6
+negative,Uganda,Other (please specify),3
+negative,Uganda,WeÛªll be less safe,0
+positive,Namibia,,2
+positive,Namibia,How much fun it will be,0
+positive,Namibia,How it will make us all smarter and better educated,2
+positive,Namibia,How easy it will make life,4
+positive,Namibia,How it will bring the world together,4
+positive,Namibia,Other (please specify),2
+positive,Namibia,None of the above,10
+negative,Namibia,,3
+negative,Namibia,WeÛªll lose touch with one another,0
+negative,Namibia,The loss of privacy,9
+negative,Namibia,I have no fears about a more connected future,0
+negative,Namibia,Other (please specify),1
+negative,Namibia,WeÛªll be less safe,0
+positive,Gambia,,1
+positive,Gambia,How much fun it will be,0
+positive,Gambia,How it will make us all smarter and better educated,0
+positive,Gambia,How easy it will make life,1
+positive,Gambia,How it will bring the world together,1
+positive,Gambia,Other (please specify),0
+positive,Gambia,None of the above,0
+negative,Gambia,,1
+negative,Gambia,WeÛªll lose touch with one another,0
+negative,Gambia,The loss of privacy,1
+negative,Gambia,I have no fears about a more connected future,0
+negative,Gambia,Other (please specify),0
+negative,Gambia,WeÛªll be less safe,0
+positive,Mauritius,,2
+positive,Mauritius,How much fun it will be,6
+positive,Mauritius,How it will make us all smarter and better educated,16
+positive,Mauritius,How easy it will make life,16
+positive,Mauritius,How it will bring the world together,15
+positive,Mauritius,Other (please specify),2
+positive,Mauritius,None of the above,5
+negative,Mauritius,,0
+negative,Mauritius,WeÛªll lose touch with one another,0
+negative,Mauritius,The loss of privacy,37
+negative,Mauritius,I have no fears about a more connected future,4
+negative,Mauritius,Other (please specify),3
+negative,Mauritius,WeÛªll be less safe,0
+positive,Sint Maarten (Dutch part),,0
+positive,Sint Maarten (Dutch part),How much fun it will be,0
+positive,Sint Maarten (Dutch part),How it will make us all smarter and better educated,1
+positive,Sint Maarten (Dutch part),How easy it will make life,0
+positive,Sint Maarten (Dutch part),How it will bring the world together,0
+positive,Sint Maarten (Dutch part),Other (please specify),0
+positive,Sint Maarten (Dutch part),None of the above,0
+negative,Sint Maarten (Dutch part),,0
+negative,Sint Maarten (Dutch part),WeÛªll lose touch with one another,0
+negative,Sint Maarten (Dutch part),The loss of privacy,1
+negative,Sint Maarten (Dutch part),I have no fears about a more connected future,0
+negative,Sint Maarten (Dutch part),Other (please specify),0
+negative,Sint Maarten (Dutch part),WeÛªll be less safe,0
+positive,Ukraine,,2
+positive,Ukraine,How much fun it will be,5
+positive,Ukraine,How it will make us all smarter and better educated,23
+positive,Ukraine,How easy it will make life,19
+positive,Ukraine,How it will bring the world together,11
+positive,Ukraine,Other (please specify),4
+positive,Ukraine,None of the above,10
+negative,Ukraine,,2
+negative,Ukraine,WeÛªll lose touch with one another,0
+negative,Ukraine,The loss of privacy,36
+negative,Ukraine,I have no fears about a more connected future,9
+negative,Ukraine,Other (please specify),5
+negative,Ukraine,WeÛªll be less safe,0
+positive,Nicaragua,,7
+positive,Nicaragua,How much fun it will be,19
+positive,Nicaragua,How it will make us all smarter and better educated,35
+positive,Nicaragua,How easy it will make life,34
+positive,Nicaragua,How it will bring the world together,29
+positive,Nicaragua,Other (please specify),9
+positive,Nicaragua,None of the above,36
+negative,Nicaragua,,8
+negative,Nicaragua,WeÛªll lose touch with one another,0
+negative,Nicaragua,The loss of privacy,90
+negative,Nicaragua,I have no fears about a more connected future,20
+negative,Nicaragua,Other (please specify),7
+negative,Nicaragua,WeÛªll be less safe,0
+positive,Mauritania,,3
+positive,Mauritania,How much fun it will be,0
+positive,Mauritania,How it will make us all smarter and better educated,2
+positive,Mauritania,How easy it will make life,2
+positive,Mauritania,How it will bring the world together,0
+positive,Mauritania,Other (please specify),0
+positive,Mauritania,None of the above,1
+negative,Mauritania,,2
+negative,Mauritania,WeÛªll lose touch with one another,0
+negative,Mauritania,The loss of privacy,1
+negative,Mauritania,I have no fears about a more connected future,1
+negative,Mauritania,Other (please specify),0
+negative,Mauritania,WeÛªll be less safe,0
+positive,Iceland,,1
+positive,Iceland,How much fun it will be,1
+positive,Iceland,How it will make us all smarter and better educated,5
+positive,Iceland,How easy it will make life,7
+positive,Iceland,How it will bring the world together,8
+positive,Iceland,Other (please specify),5
+positive,Iceland,None of the above,3
+negative,Iceland,,1
+negative,Iceland,WeÛªll lose touch with one another,0
+negative,Iceland,The loss of privacy,17
+negative,Iceland,I have no fears about a more connected future,4
+negative,Iceland,Other (please specify),3
+negative,Iceland,WeÛªll be less safe,0
+positive,Mexico,,365
+positive,Mexico,How much fun it will be,1104
+positive,Mexico,How it will make us all smarter and better educated,1023
+positive,Mexico,How easy it will make life,1638
+positive,Mexico,How it will bring the world together,837
+positive,Mexico,Other (please specify),569
+positive,Mexico,None of the above,1360
+negative,Mexico,,432
+negative,Mexico,WeÛªll lose touch with one another,0
+negative,Mexico,The loss of privacy,3181
+negative,Mexico,I have no fears about a more connected future,659
+negative,Mexico,Other (please specify),441
+negative,Mexico,WeÛªll be less safe,0
+positive,Turks and Caicos Islands,,0
+positive,Turks and Caicos Islands,How much fun it will be,0
+positive,Turks and Caicos Islands,How it will make us all smarter and better educated,1
+positive,Turks and Caicos Islands,How easy it will make life,0
+positive,Turks and Caicos Islands,How it will bring the world together,0
+positive,Turks and Caicos Islands,Other (please specify),0
+positive,Turks and Caicos Islands,None of the above,0
+negative,Turks and Caicos Islands,,0
+negative,Turks and Caicos Islands,WeÛªll lose touch with one another,0
+negative,Turks and Caicos Islands,The loss of privacy,1
+negative,Turks and Caicos Islands,I have no fears about a more connected future,0
+negative,Turks and Caicos Islands,Other (please specify),0
+negative,Turks and Caicos Islands,WeÛªll be less safe,0
+positive,Dominican Republic,,21
+positive,Dominican Republic,How much fun it will be,22
+positive,Dominican Republic,How it will make us all smarter and better educated,48
+positive,Dominican Republic,How easy it will make life,79
+positive,Dominican Republic,How it will bring the world together,30
+positive,Dominican Republic,Other (please specify),11
+positive,Dominican Republic,None of the above,33
+negative,Dominican Republic,,21
+negative,Dominican Republic,WeÛªll lose touch with one another,0
+negative,Dominican Republic,The loss of privacy,100
+negative,Dominican Republic,I have no fears about a more connected future,37
+negative,Dominican Republic,Other (please specify),7
+negative,Dominican Republic,WeÛªll be less safe,0
+positive,China,,9
+positive,China,How much fun it will be,13
+positive,China,How it will make us all smarter and better educated,20
+positive,China,How easy it will make life,32
+positive,China,How it will bring the world together,16
+positive,China,Other (please specify),6
+positive,China,None of the above,11
+negative,China,,9
+negative,China,WeÛªll lose touch with one another,0
+negative,China,The loss of privacy,39
+negative,China,I have no fears about a more connected future,5
+negative,China,Other (please specify),6
+negative,China,WeÛªll be less safe,0
+positive,Maldives,,3
+positive,Maldives,How much fun it will be,0
+positive,Maldives,How it will make us all smarter and better educated,3
+positive,Maldives,How easy it will make life,3
+positive,Maldives,How it will bring the world together,0
+positive,Maldives,Other (please specify),2
+positive,Maldives,None of the above,1
+negative,Maldives,,3
+negative,Maldives,WeÛªll lose touch with one another,0
+negative,Maldives,The loss of privacy,2
+negative,Maldives,I have no fears about a more connected future,1
+negative,Maldives,Other (please specify),1
+negative,Maldives,WeÛªll be less safe,0
+positive,Congo, The Democratic Republic of the,,12
+positive,Congo, The Democratic Republic of the,How much fun it will be,2
+positive,Congo, The Democratic Republic of the,How it will make us all smarter and better educated,3
+positive,Congo, The Democratic Republic of the,How easy it will make life,16
+positive,Congo, The Democratic Republic of the,How it will bring the world together,10
+positive,Congo, The Democratic Republic of the,Other (please specify),4
+positive,Congo, The Democratic Republic of the,None of the above,11
+negative,Congo, The Democratic Republic of the,,12
+negative,Congo, The Democratic Republic of the,WeÛªll lose touch with one another,0
+negative,Congo, The Democratic Republic of the,The loss of privacy,18
+negative,Congo, The Democratic Republic of the,I have no fears about a more connected future,8
+negative,Congo, The Democratic Republic of the,Other (please specify),5
+negative,Congo, The Democratic Republic of the,WeÛªll be less safe,0
+positive,Brazil,,798
+positive,Brazil,How much fun it will be,1134
+positive,Brazil,How it will make us all smarter and better educated,1052
+positive,Brazil,How easy it will make life,5492
+positive,Brazil,How it will bring the world together,1038
+positive,Brazil,Other (please specify),1450
+positive,Brazil,None of the above,2445
+negative,Brazil,,973
+negative,Brazil,WeÛªll lose touch with one another,0
+negative,Brazil,The loss of privacy,5136
+negative,Brazil,I have no fears about a more connected future,1621
+negative,Brazil,Other (please specify),979
+negative,Brazil,WeÛªll be less safe,0
+positive,Bosnia and Herzegovina,,13
+positive,Bosnia and Herzegovina,How much fun it will be,6
+positive,Bosnia and Herzegovina,How it will make us all smarter and better educated,14
+positive,Bosnia and Herzegovina,How easy it will make life,11
+positive,Bosnia and Herzegovina,How it will bring the world together,7
+positive,Bosnia and Herzegovina,Other (please specify),1
+positive,Bosnia and Herzegovina,None of the above,10
+negative,Bosnia and Herzegovina,,12
+negative,Bosnia and Herzegovina,WeÛªll lose touch with one another,0
+negative,Bosnia and Herzegovina,The loss of privacy,20
+negative,Bosnia and Herzegovina,I have no fears about a more connected future,6
+negative,Bosnia and Herzegovina,Other (please specify),0
+negative,Bosnia and Herzegovina,WeÛªll be less safe,0
+positive,Swaziland,,0
+positive,Swaziland,How much fun it will be,0
+positive,Swaziland,How it will make us all smarter and better educated,2
+positive,Swaziland,How easy it will make life,2
+positive,Swaziland,How it will bring the world together,0
+positive,Swaziland,Other (please specify),0
+positive,Swaziland,None of the above,1
+negative,Swaziland,,0
+negative,Swaziland,WeÛªll lose touch with one another,0
+negative,Swaziland,The loss of privacy,4
+negative,Swaziland,I have no fears about a more connected future,0
+negative,Swaziland,Other (please specify),0
+negative,Swaziland,WeÛªll be less safe,0
+positive,France,,1407
+positive,France,How much fun it will be,1913
+positive,France,How it will make us all smarter and better educated,4047
+positive,France,How easy it will make life,8243
+positive,France,How it will bring the world together,3119
+positive,France,Other (please specify),2927
+positive,France,None of the above,10329
+negative,France,,1257
+negative,France,WeÛªll lose touch with one another,0
+negative,France,The loss of privacy,15545
+negative,France,I have no fears about a more connected future,1288
+negative,France,Other (please specify),3381
+negative,France,WeÛªll be less safe,0
+positive,Israel,,2
+positive,Israel,How much fun it will be,15
+positive,Israel,How it will make us all smarter and better educated,27
+positive,Israel,How easy it will make life,34
+positive,Israel,How it will bring the world together,25
+positive,Israel,Other (please specify),19
+positive,Israel,None of the above,38
+negative,Israel,,3
+negative,Israel,WeÛªll lose touch with one another,0
+negative,Israel,The loss of privacy,67
+negative,Israel,I have no fears about a more connected future,11
+negative,Israel,Other (please specify),15
+negative,Israel,WeÛªll be less safe,0
+positive,Albania,,11
+positive,Albania,How much fun it will be,7
+positive,Albania,How it will make us all smarter and better educated,10
+positive,Albania,How easy it will make life,16
+positive,Albania,How it will bring the world together,11
+positive,Albania,Other (please specify),5
+positive,Albania,None of the above,8
+negative,Albania,,10
+negative,Albania,WeÛªll lose touch with one another,0
+negative,Albania,The loss of privacy,25
+negative,Albania,I have no fears about a more connected future,6
+negative,Albania,Other (please specify),3
+negative,Albania,WeÛªll be less safe,0
+positive,Chile,,65
+positive,Chile,How much fun it will be,214
+positive,Chile,How it will make us all smarter and better educated,217
+positive,Chile,How easy it will make life,314
+positive,Chile,How it will bring the world together,148
+positive,Chile,Other (please specify),143
+positive,Chile,None of the above,316
+negative,Chile,,74
+negative,Chile,WeÛªll lose touch with one another,0
+negative,Chile,The loss of privacy,616
+negative,Chile,I have no fears about a more connected future,136
+negative,Chile,Other (please specify),113
+negative,Chile,WeÛªll be less safe,0
+positive,Serbia,,25
+positive,Serbia,How much fun it will be,24
+positive,Serbia,How it will make us all smarter and better educated,38
+positive,Serbia,How easy it will make life,46
+positive,Serbia,How it will bring the world together,21
+positive,Serbia,Other (please specify),16
+positive,Serbia,None of the above,29
+negative,Serbia,,26
+negative,Serbia,WeÛªll lose touch with one another,0
+negative,Serbia,The loss of privacy,83
+negative,Serbia,I have no fears about a more connected future,16
+negative,Serbia,Other (please specify),6
+negative,Serbia,WeÛªll be less safe,0
+positive,Czech Republic,,6
+positive,Czech Republic,How much fun it will be,15
+positive,Czech Republic,How it will make us all smarter and better educated,29
+positive,Czech Republic,How easy it will make life,43
+positive,Czech Republic,How it will bring the world together,24
+positive,Czech Republic,Other (please specify),2
+positive,Czech Republic,None of the above,31
+negative,Czech Republic,,5
+negative,Czech Republic,WeÛªll lose touch with one another,0
+negative,Czech Republic,The loss of privacy,73
+negative,Czech Republic,I have no fears about a more connected future,5
+negative,Czech Republic,Other (please specify),9
+negative,Czech Republic,WeÛªll be less safe,0
+positive,Djibouti,,1
+positive,Djibouti,How much fun it will be,0
+positive,Djibouti,How it will make us all smarter and better educated,1
+positive,Djibouti,How easy it will make life,2
+positive,Djibouti,How it will bring the world together,3
+positive,Djibouti,Other (please specify),0
+positive,Djibouti,None of the above,1
+negative,Djibouti,,1
+negative,Djibouti,WeÛªll lose touch with one another,0
+negative,Djibouti,The loss of privacy,2
+negative,Djibouti,I have no fears about a more connected future,2
+negative,Djibouti,Other (please specify),0
+negative,Djibouti,WeÛªll be less safe,0
+positive,Togo,,18
+positive,Togo,How much fun it will be,4
+positive,Togo,How it will make us all smarter and better educated,13
+positive,Togo,How easy it will make life,13
+positive,Togo,How it will bring the world together,13
+positive,Togo,Other (please specify),3
+positive,Togo,None of the above,9
+negative,Togo,,17
+negative,Togo,WeÛªll lose touch with one another,0
+negative,Togo,The loss of privacy,26
+negative,Togo,I have no fears about a more connected future,9
+negative,Togo,Other (please specify),2
+negative,Togo,WeÛªll be less safe,0
+positive,Mayotte,,4
+positive,Mayotte,How much fun it will be,2
+positive,Mayotte,How it will make us all smarter and better educated,1
+positive,Mayotte,How easy it will make life,2
+positive,Mayotte,How it will bring the world together,5
+positive,Mayotte,Other (please specify),2
+positive,Mayotte,None of the above,10
+negative,Mayotte,,3
+negative,Mayotte,WeÛªll lose touch with one another,0
+negative,Mayotte,The loss of privacy,10
+negative,Mayotte,I have no fears about a more connected future,1
+negative,Mayotte,Other (please specify),1
+negative,Mayotte,WeÛªll be less safe,0
+positive,Tunisia,,72
+positive,Tunisia,How much fun it will be,20
+positive,Tunisia,How it will make us all smarter and better educated,43
+positive,Tunisia,How easy it will make life,73
+positive,Tunisia,How it will bring the world together,29
+positive,Tunisia,Other (please specify),17
+positive,Tunisia,None of the above,27
+negative,Tunisia,,68
+negative,Tunisia,WeÛªll lose touch with one another,0
+negative,Tunisia,The loss of privacy,83
+negative,Tunisia,I have no fears about a more connected future,15
+negative,Tunisia,Other (please specify),14
+negative,Tunisia,WeÛªll be less safe,0
+positive,Paraguay,,16
+positive,Paraguay,How much fun it will be,44
+positive,Paraguay,How it will make us all smarter and better educated,36
+positive,Paraguay,How easy it will make life,72
+positive,Paraguay,How it will bring the world together,38
+positive,Paraguay,Other (please specify),20
+positive,Paraguay,None of the above,55
+negative,Paraguay,,22
+negative,Paraguay,WeÛªll lose touch with one another,0
+negative,Paraguay,The loss of privacy,127
+negative,Paraguay,I have no fears about a more connected future,32
+negative,Paraguay,Other (please specify),7
+negative,Paraguay,WeÛªll be less safe,0
+positive,Bhutan,,1
+positive,Bhutan,How much fun it will be,0
+positive,Bhutan,How it will make us all smarter and better educated,1
+positive,Bhutan,How easy it will make life,1
+positive,Bhutan,How it will bring the world together,1
+positive,Bhutan,Other (please specify),0
+positive,Bhutan,None of the above,0
+negative,Bhutan,,1
+negative,Bhutan,WeÛªll lose touch with one another,0
+negative,Bhutan,The loss of privacy,2
+negative,Bhutan,I have no fears about a more connected future,1
+negative,Bhutan,Other (please specify),0
+negative,Bhutan,WeÛªll be less safe,0
+positive,Saint Kitts and Nevis,,0
+positive,Saint Kitts and Nevis,How much fun it will be,0
+positive,Saint Kitts and Nevis,How it will make us all smarter and better educated,1
+positive,Saint Kitts and Nevis,How easy it will make life,0
+positive,Saint Kitts and Nevis,How it will bring the world together,1
+positive,Saint Kitts and Nevis,Other (please specify),0
+positive,Saint Kitts and Nevis,None of the above,0
+negative,Saint Kitts and Nevis,,0
+negative,Saint Kitts and Nevis,WeÛªll lose touch with one another,0
+negative,Saint Kitts and Nevis,The loss of privacy,0
+negative,Saint Kitts and Nevis,I have no fears about a more connected future,0
+negative,Saint Kitts and Nevis,Other (please specify),0
+negative,Saint Kitts and Nevis,WeÛªll be less safe,0
+positive,Martinique,,6
+positive,Martinique,How much fun it will be,6
+positive,Martinique,How it will make us all smarter and better educated,11
+positive,Martinique,How easy it will make life,26
+positive,Martinique,How it will bring the world together,8
+positive,Martinique,Other (please specify),11
+positive,Martinique,None of the above,39
+negative,Martinique,,6
+negative,Martinique,WeÛªll lose touch with one another,0
+negative,Martinique,The loss of privacy,45
+negative,Martinique,I have no fears about a more connected future,8
+negative,Martinique,Other (please specify),11
+negative,Martinique,WeÛªll be less safe,0
+positive,Sao Tome and Principe,,0
+positive,Sao Tome and Principe,How much fun it will be,0
+positive,Sao Tome and Principe,How it will make us all smarter and better educated,0
+positive,Sao Tome and Principe,How easy it will make life,0
+positive,Sao Tome and Principe,How it will bring the world together,0
+positive,Sao Tome and Principe,Other (please specify),0
+positive,Sao Tome and Principe,None of the above,1
+negative,Sao Tome and Principe,,0
+negative,Sao Tome and Principe,WeÛªll lose touch with one another,0
+negative,Sao Tome and Principe,The loss of privacy,0
+negative,Sao Tome and Principe,I have no fears about a more connected future,1
+negative,Sao Tome and Principe,Other (please specify),0
+negative,Sao Tome and Principe,WeÛªll be less safe,0
+positive,Lebanon,,5
+positive,Lebanon,How much fun it will be,7
+positive,Lebanon,How it will make us all smarter and better educated,4
+positive,Lebanon,How easy it will make life,15
+positive,Lebanon,How it will bring the world together,8
+positive,Lebanon,Other (please specify),2
+positive,Lebanon,None of the above,10
+negative,Lebanon,,7
+negative,Lebanon,WeÛªll lose touch with one another,0
+negative,Lebanon,The loss of privacy,18
+negative,Lebanon,I have no fears about a more connected future,1
+negative,Lebanon,Other (please specify),4
+negative,Lebanon,WeÛªll be less safe,0
+positive,South Sudan,,0
+positive,South Sudan,How much fun it will be,0
+positive,South Sudan,How it will make us all smarter and better educated,0
+positive,South Sudan,How easy it will make life,1
+positive,South Sudan,How it will bring the world together,0
+positive,South Sudan,Other (please specify),1
+positive,South Sudan,None of the above,0
+negative,South Sudan,,0
+negative,South Sudan,WeÛªll lose touch with one another,0
+negative,South Sudan,The loss of privacy,1
+negative,South Sudan,I have no fears about a more connected future,0
+negative,South Sudan,Other (please specify),1
+negative,South Sudan,WeÛªll be less safe,0
+positive,Peru,,83
+positive,Peru,How much fun it will be,148
+positive,Peru,How it will make us all smarter and better educated,158
+positive,Peru,How easy it will make life,215
+positive,Peru,How it will bring the world together,168
+positive,Peru,Other (please specify),52
+positive,Peru,None of the above,87
+negative,Peru,,91
+negative,Peru,WeÛªll lose touch with one another,0
+negative,Peru,The loss of privacy,396
+negative,Peru,I have no fears about a more connected future,107
+negative,Peru,Other (please specify),50
+negative,Peru,WeÛªll be less safe,0
+positive,Costa Rica,,18
+positive,Costa Rica,How much fun it will be,60
+positive,Costa Rica,How it will make us all smarter and better educated,69
+positive,Costa Rica,How easy it will make life,113
+positive,Costa Rica,How it will bring the world together,44
+positive,Costa Rica,Other (please specify),39
+positive,Costa Rica,None of the above,97
+negative,Costa Rica,,20
+negative,Costa Rica,WeÛªll lose touch with one another,0
+negative,Costa Rica,The loss of privacy,210
+negative,Costa Rica,I have no fears about a more connected future,44
+negative,Costa Rica,Other (please specify),24
+negative,Costa Rica,WeÛªll be less safe,0
+positive,Cote D'Ivoire,,71
+positive,Cote D'Ivoire,How much fun it will be,26
+positive,Cote D'Ivoire,How it will make us all smarter and better educated,49
+positive,Cote D'Ivoire,How easy it will make life,86
+positive,Cote D'Ivoire,How it will bring the world together,34
+positive,Cote D'Ivoire,Other (please specify),7
+positive,Cote D'Ivoire,None of the above,34
+negative,Cote D'Ivoire,,67
+negative,Cote D'Ivoire,WeÛªll lose touch with one another,0
+negative,Cote D'Ivoire,The loss of privacy,126
+negative,Cote D'Ivoire,I have no fears about a more connected future,16
+negative,Cote D'Ivoire,Other (please specify),11
+negative,Cote D'Ivoire,WeÛªll be less safe,0
+positive,Barbados,,0
+positive,Barbados,How much fun it will be,2
+positive,Barbados,How it will make us all smarter and better educated,4
+positive,Barbados,How easy it will make life,3
+positive,Barbados,How it will bring the world together,0
+positive,Barbados,Other (please specify),0
+positive,Barbados,None of the above,3
+negative,Barbados,,0
+negative,Barbados,WeÛªll lose touch with one another,0
+negative,Barbados,The loss of privacy,5
+negative,Barbados,I have no fears about a more connected future,0
+negative,Barbados,Other (please specify),0
+negative,Barbados,WeÛªll be less safe,0
+positive,Nigeria,,46
+positive,Nigeria,How much fun it will be,19
+positive,Nigeria,How it will make us all smarter and better educated,68
+positive,Nigeria,How easy it will make life,92
+positive,Nigeria,How it will bring the world together,41
+positive,Nigeria,Other (please specify),10
+positive,Nigeria,None of the above,10
+negative,Nigeria,,46
+negative,Nigeria,WeÛªll lose touch with one another,0
+negative,Nigeria,The loss of privacy,120
+negative,Nigeria,I have no fears about a more connected future,58
+negative,Nigeria,Other (please specify),9
+negative,Nigeria,WeÛªll be less safe,0
+positive,Botswana,,4
+positive,Botswana,How much fun it will be,1
+positive,Botswana,How it will make us all smarter and better educated,2
+positive,Botswana,How easy it will make life,3
+positive,Botswana,How it will bring the world together,4
+positive,Botswana,Other (please specify),1
+positive,Botswana,None of the above,1
+negative,Botswana,,4
+negative,Botswana,WeÛªll lose touch with one another,0
+negative,Botswana,The loss of privacy,4
+negative,Botswana,I have no fears about a more connected future,1
+negative,Botswana,Other (please specify),0
+negative,Botswana,WeÛªll be less safe,0
+positive,French Guiana,,2
+positive,French Guiana,How much fun it will be,3
+positive,French Guiana,How it will make us all smarter and better educated,5
+positive,French Guiana,How easy it will make life,16
+positive,French Guiana,How it will bring the world together,2
+positive,French Guiana,Other (please specify),5
+positive,French Guiana,None of the above,17
+negative,French Guiana,,3
+negative,French Guiana,WeÛªll lose touch with one another,0
+negative,French Guiana,The loss of privacy,17
+negative,French Guiana,I have no fears about a more connected future,3
+negative,French Guiana,Other (please specify),6
+negative,French Guiana,WeÛªll be less safe,0
+positive,Slovakia,,6
+positive,Slovakia,How much fun it will be,7
+positive,Slovakia,How it will make us all smarter and better educated,10
+positive,Slovakia,How easy it will make life,18
+positive,Slovakia,How it will bring the world together,9
+positive,Slovakia,Other (please specify),5
+positive,Slovakia,None of the above,18
+negative,Slovakia,,6
+negative,Slovakia,WeÛªll lose touch with one another,0
+negative,Slovakia,The loss of privacy,32
+negative,Slovakia,I have no fears about a more connected future,5
+negative,Slovakia,Other (please specify),6
+negative,Slovakia,WeÛªll be less safe,0
+positive,Myanmar,,51
+positive,Myanmar,How much fun it will be,4
+positive,Myanmar,How it will make us all smarter and better educated,21
+positive,Myanmar,How easy it will make life,24
+positive,Myanmar,How it will bring the world together,6
+positive,Myanmar,Other (please specify),1
+positive,Myanmar,None of the above,4
+negative,Myanmar,,52
+negative,Myanmar,WeÛªll lose touch with one another,0
+negative,Myanmar,The loss of privacy,28
+negative,Myanmar,I have no fears about a more connected future,13
+negative,Myanmar,Other (please specify),0
+negative,Myanmar,WeÛªll be less safe,0
+positive,Malawi,,1
+positive,Malawi,How much fun it will be,1
+positive,Malawi,How it will make us all smarter and better educated,2
+positive,Malawi,How easy it will make life,6
+positive,Malawi,How it will bring the world together,2
+positive,Malawi,Other (please specify),0
+positive,Malawi,None of the above,1
+negative,Malawi,,1
+negative,Malawi,WeÛªll lose touch with one another,0
+negative,Malawi,The loss of privacy,9
+negative,Malawi,I have no fears about a more connected future,1
+negative,Malawi,Other (please specify),1
+negative,Malawi,WeÛªll be less safe,0
+positive,Argentina,,171
+positive,Argentina,How much fun it will be,371
+positive,Argentina,How it will make us all smarter and better educated,498
+positive,Argentina,How easy it will make life,617
+positive,Argentina,How it will bring the world together,412
+positive,Argentina,Other (please specify),339
+positive,Argentina,None of the above,854
+negative,Argentina,,180
+negative,Argentina,WeÛªll lose touch with one another,0
+negative,Argentina,The loss of privacy,1289
+negative,Argentina,I have no fears about a more connected future,413
+negative,Argentina,Other (please specify),260
+negative,Argentina,WeÛªll be less safe,0
+positive,Kyrgyzstan,,0
+positive,Kyrgyzstan,How much fun it will be,0
+positive,Kyrgyzstan,How it will make us all smarter and better educated,1
+positive,Kyrgyzstan,How easy it will make life,0
+positive,Kyrgyzstan,How it will bring the world together,0
+positive,Kyrgyzstan,Other (please specify),0
+positive,Kyrgyzstan,None of the above,0
+negative,Kyrgyzstan,,0
+negative,Kyrgyzstan,WeÛªll lose touch with one another,0
+negative,Kyrgyzstan,The loss of privacy,0
+negative,Kyrgyzstan,I have no fears about a more connected future,0
+negative,Kyrgyzstan,Other (please specify),0
+negative,Kyrgyzstan,WeÛªll be less safe,0
+positive,Ethiopia,,50
+positive,Ethiopia,How much fun it will be,1
+positive,Ethiopia,How it will make us all smarter and better educated,6
+positive,Ethiopia,How easy it will make life,13
+positive,Ethiopia,How it will bring the world together,6
+positive,Ethiopia,Other (please specify),0
+positive,Ethiopia,None of the above,3
+negative,Ethiopia,,45
+negative,Ethiopia,WeÛªll lose touch with one another,0
+negative,Ethiopia,The loss of privacy,12
+negative,Ethiopia,I have no fears about a more connected future,3
+negative,Ethiopia,Other (please specify),4
+negative,Ethiopia,WeÛªll be less safe,0
+positive,Europe,,1
+positive,Europe,How much fun it will be,18
+positive,Europe,How it will make us all smarter and better educated,23
+positive,Europe,How easy it will make life,55
+positive,Europe,How it will bring the world together,15
+positive,Europe,Other (please specify),7
+positive,Europe,None of the above,40
+negative,Europe,,2
+negative,Europe,WeÛªll lose touch with one another,0
+negative,Europe,The loss of privacy,81
+negative,Europe,I have no fears about a more connected future,7
+negative,Europe,Other (please specify),11
+negative,Europe,WeÛªll be less safe,0
+positive,Luxembourg,,7
+positive,Luxembourg,How much fun it will be,12
+positive,Luxembourg,How it will make us all smarter and better educated,32
+positive,Luxembourg,How easy it will make life,60
+positive,Luxembourg,How it will bring the world together,20
+positive,Luxembourg,Other (please specify),23
+positive,Luxembourg,None of the above,65
+negative,Luxembourg,,10
+negative,Luxembourg,WeÛªll lose touch with one another,0
+negative,Luxembourg,The loss of privacy,113
+negative,Luxembourg,I have no fears about a more connected future,12
+negative,Luxembourg,Other (please specify),20
+negative,Luxembourg,WeÛªll be less safe,0
+positive,Denmark,,2
+positive,Denmark,How much fun it will be,15
+positive,Denmark,How it will make us all smarter and better educated,52
+positive,Denmark,How easy it will make life,48
+positive,Denmark,How it will bring the world together,41
+positive,Denmark,Other (please specify),12
+positive,Denmark,None of the above,51
+negative,Denmark,,2
+negative,Denmark,WeÛªll lose touch with one another,0
+negative,Denmark,The loss of privacy,113
+negative,Denmark,I have no fears about a more connected future,14
+negative,Denmark,Other (please specify),19
+negative,Denmark,WeÛªll be less safe,0
+positive,Ireland,,6
+positive,Ireland,How much fun it will be,25
+positive,Ireland,How it will make us all smarter and better educated,70
+positive,Ireland,How easy it will make life,78
+positive,Ireland,How it will bring the world together,55
+positive,Ireland,Other (please specify),25
+positive,Ireland,None of the above,109
+negative,Ireland,,6
+negative,Ireland,WeÛªll lose touch with one another,0
+negative,Ireland,The loss of privacy,212
+negative,Ireland,I have no fears about a more connected future,17
+negative,Ireland,Other (please specify),25
+negative,Ireland,WeÛªll be less safe,0
+positive,Palestinian Territory,,2
+positive,Palestinian Territory,How much fun it will be,0
+positive,Palestinian Territory,How it will make us all smarter and better educated,1
+positive,Palestinian Territory,How easy it will make life,1
+positive,Palestinian Territory,How it will bring the world together,1
+positive,Palestinian Territory,Other (please specify),0
+positive,Palestinian Territory,None of the above,2
+negative,Palestinian Territory,,2
+negative,Palestinian Territory,WeÛªll lose touch with one another,0
+negative,Palestinian Territory,The loss of privacy,5
+negative,Palestinian Territory,I have no fears about a more connected future,0
+negative,Palestinian Territory,Other (please specify),0
+negative,Palestinian Territory,WeÛªll be less safe,0
+positive,Cambodia,,64
+positive,Cambodia,How much fun it will be,1
+positive,Cambodia,How it will make us all smarter and better educated,9
+positive,Cambodia,How easy it will make life,7
+positive,Cambodia,How it will bring the world together,12
+positive,Cambodia,Other (please specify),5
+positive,Cambodia,None of the above,6
+negative,Cambodia,,65
+negative,Cambodia,WeÛªll lose touch with one another,0
+negative,Cambodia,The loss of privacy,16
+negative,Cambodia,I have no fears about a more connected future,0
+negative,Cambodia,Other (please specify),5
+negative,Cambodia,WeÛªll be less safe,0
+positive,Taiwan,,2
+positive,Taiwan,How much fun it will be,7
+positive,Taiwan,How it will make us all smarter and better educated,12
+positive,Taiwan,How easy it will make life,16
+positive,Taiwan,How it will bring the world together,9
+positive,Taiwan,Other (please specify),1
+positive,Taiwan,None of the above,5
+negative,Taiwan,,3
+negative,Taiwan,WeÛªll lose touch with one another,0
+negative,Taiwan,The loss of privacy,27
+negative,Taiwan,I have no fears about a more connected future,3
+negative,Taiwan,Other (please specify),3
+negative,Taiwan,WeÛªll be less safe,0
+positive,Puerto Rico,,8
+positive,Puerto Rico,How much fun it will be,15
+positive,Puerto Rico,How it will make us all smarter and better educated,17
+positive,Puerto Rico,How easy it will make life,31
+positive,Puerto Rico,How it will bring the world together,12
+positive,Puerto Rico,Other (please specify),7
+positive,Puerto Rico,None of the above,16
+negative,Puerto Rico,,10
+negative,Puerto Rico,WeÛªll lose touch with one another,0
+negative,Puerto Rico,The loss of privacy,54
+negative,Puerto Rico,I have no fears about a more connected future,8
+negative,Puerto Rico,Other (please specify),0
+negative,Puerto Rico,WeÛªll be less safe,0
+positive,Mali,,31
+positive,Mali,How much fun it will be,3
+positive,Mali,How it will make us all smarter and better educated,9
+positive,Mali,How easy it will make life,16
+positive,Mali,How it will bring the world together,11
+positive,Mali,Other (please specify),4
+positive,Mali,None of the above,4
+negative,Mali,,30
+negative,Mali,WeÛªll lose touch with one another,0
+negative,Mali,The loss of privacy,19
+negative,Mali,I have no fears about a more connected future,7
+negative,Mali,Other (please specify),3
+negative,Mali,WeÛªll be less safe,0
+positive,Guadeloupe,,4
+positive,Guadeloupe,How much fun it will be,7
+positive,Guadeloupe,How it will make us all smarter and better educated,13
+positive,Guadeloupe,How easy it will make life,25
+positive,Guadeloupe,How it will bring the world together,9
+positive,Guadeloupe,Other (please specify),12
+positive,Guadeloupe,None of the above,32
+negative,Guadeloupe,,4
+negative,Guadeloupe,WeÛªll lose touch with one another,0
+negative,Guadeloupe,The loss of privacy,46
+negative,Guadeloupe,I have no fears about a more connected future,4
+negative,Guadeloupe,Other (please specify),11
+negative,Guadeloupe,WeÛªll be less safe,0
+positive,Guinea,,16
+positive,Guinea,How much fun it will be,1
+positive,Guinea,How it will make us all smarter and better educated,5
+positive,Guinea,How easy it will make life,13
+positive,Guinea,How it will bring the world together,5
+positive,Guinea,Other (please specify),0
+positive,Guinea,None of the above,4
+negative,Guinea,,14
+negative,Guinea,WeÛªll lose touch with one another,0
+negative,Guinea,The loss of privacy,11
+negative,Guinea,I have no fears about a more connected future,7
+negative,Guinea,Other (please specify),1
+negative,Guinea,WeÛªll be less safe,0
+positive,Curacao,,0
+positive,Curacao,How much fun it will be,0
+positive,Curacao,How it will make us all smarter and better educated,3
+positive,Curacao,How easy it will make life,4
+positive,Curacao,How it will bring the world together,0
+positive,Curacao,Other (please specify),1
+positive,Curacao,None of the above,0
+negative,Curacao,,0
+negative,Curacao,WeÛªll lose touch with one another,0
+negative,Curacao,The loss of privacy,2
+negative,Curacao,I have no fears about a more connected future,0
+negative,Curacao,Other (please specify),2
+negative,Curacao,WeÛªll be less safe,0
+positive,Chad,,1
+positive,Chad,How much fun it will be,0
+positive,Chad,How it will make us all smarter and better educated,4
+positive,Chad,How easy it will make life,3
+positive,Chad,How it will bring the world together,1
+positive,Chad,Other (please specify),1
+positive,Chad,None of the above,0
+negative,Chad,,1
+negative,Chad,WeÛªll lose touch with one another,0
+negative,Chad,The loss of privacy,2
+negative,Chad,I have no fears about a more connected future,1
+negative,Chad,Other (please specify),1
+negative,Chad,WeÛªll be less safe,0
+positive,Niger,,6
+positive,Niger,How much fun it will be,2
+positive,Niger,How it will make us all smarter and better educated,5
+positive,Niger,How easy it will make life,5
+positive,Niger,How it will bring the world together,8
+positive,Niger,Other (please specify),1
+positive,Niger,None of the above,2
+negative,Niger,,6
+negative,Niger,WeÛªll lose touch with one another,0
+negative,Niger,The loss of privacy,10
+negative,Niger,I have no fears about a more connected future,4
+negative,Niger,Other (please specify),1
+negative,Niger,WeÛªll be less safe,0
+positive,Burundi,,4
+positive,Burundi,How much fun it will be,1
+positive,Burundi,How it will make us all smarter and better educated,4
+positive,Burundi,How easy it will make life,3
+positive,Burundi,How it will bring the world together,2
+positive,Burundi,Other (please specify),1
+positive,Burundi,None of the above,3
+negative,Burundi,,4
+negative,Burundi,WeÛªll lose touch with one another,0
+negative,Burundi,The loss of privacy,6
+negative,Burundi,I have no fears about a more connected future,4
+negative,Burundi,Other (please specify),0
+negative,Burundi,WeÛªll be less safe,0
+positive,Gabon,,10
+positive,Gabon,How much fun it will be,5
+positive,Gabon,How it will make us all smarter and better educated,12
+positive,Gabon,How easy it will make life,19
+positive,Gabon,How it will bring the world together,2
+positive,Gabon,Other (please specify),1
+positive,Gabon,None of the above,4
+negative,Gabon,,11
+negative,Gabon,WeÛªll lose touch with one another,0
+negative,Gabon,The loss of privacy,18
+negative,Gabon,I have no fears about a more connected future,5
+negative,Gabon,Other (please specify),0
+negative,Gabon,WeÛªll be less safe,0
+positive,Croatia,,10
+positive,Croatia,How much fun it will be,29
+positive,Croatia,How it will make us all smarter and better educated,36
+positive,Croatia,How easy it will make life,41
+positive,Croatia,How it will bring the world together,16
+positive,Croatia,Other (please specify),11
+positive,Croatia,None of the above,37
+negative,Croatia,,11
+negative,Croatia,WeÛªll lose touch with one another,0
+negative,Croatia,The loss of privacy,70
+negative,Croatia,I have no fears about a more connected future,17
+negative,Croatia,Other (please specify),11
+negative,Croatia,WeÛªll be less safe,0
+positive,Isle of Man,,0
+positive,Isle of Man,How much fun it will be,2
+positive,Isle of Man,How it will make us all smarter and better educated,1
+positive,Isle of Man,How easy it will make life,0
+positive,Isle of Man,How it will bring the world together,4
+positive,Isle of Man,Other (please specify),1
+positive,Isle of Man,None of the above,5
+negative,Isle of Man,,0
+negative,Isle of Man,WeÛªll lose touch with one another,0
+negative,Isle of Man,The loss of privacy,6
+negative,Isle of Man,I have no fears about a more connected future,0
+negative,Isle of Man,Other (please specify),2
+negative,Isle of Man,WeÛªll be less safe,0
+positive,Mongolia,,5
+positive,Mongolia,How much fun it will be,3
+positive,Mongolia,How it will make us all smarter and better educated,1
+positive,Mongolia,How easy it will make life,10
+positive,Mongolia,How it will bring the world together,1
+positive,Mongolia,Other (please specify),1
+positive,Mongolia,None of the above,2
+negative,Mongolia,,6
+negative,Mongolia,WeÛªll lose touch with one another,0
+negative,Mongolia,The loss of privacy,9
+negative,Mongolia,I have no fears about a more connected future,0
+negative,Mongolia,Other (please specify),5
+negative,Mongolia,WeÛªll be less safe,0
+positive,Egypt,,190
+positive,Egypt,How much fun it will be,21
+positive,Egypt,How it will make us all smarter and better educated,23
+positive,Egypt,How easy it will make life,43
+positive,Egypt,How it will bring the world together,11
+positive,Egypt,Other (please specify),10
+positive,Egypt,None of the above,9
+negative,Egypt,,188
+negative,Egypt,WeÛªll lose touch with one another,0
+negative,Egypt,The loss of privacy,45
+negative,Egypt,I have no fears about a more connected future,13
+negative,Egypt,Other (please specify),13
+negative,Egypt,WeÛªll be less safe,0
+positive,Sweden,,9
+positive,Sweden,How much fun it will be,44
+positive,Sweden,How it will make us all smarter and better educated,63
+positive,Sweden,How easy it will make life,71
+positive,Sweden,How it will bring the world together,59
+positive,Sweden,Other (please specify),27
+positive,Sweden,None of the above,63
+negative,Sweden,,9
+negative,Sweden,WeÛªll lose touch with one another,0
+negative,Sweden,The loss of privacy,175
+negative,Sweden,I have no fears about a more connected future,18
+negative,Sweden,Other (please specify),34
+negative,Sweden,WeÛªll be less safe,0
+positive,Kenya,,28
+positive,Kenya,How much fun it will be,19
+positive,Kenya,How it will make us all smarter and better educated,47
+positive,Kenya,How easy it will make life,96
+positive,Kenya,How it will bring the world together,67
+positive,Kenya,Other (please specify),8
+positive,Kenya,None of the above,14
+negative,Kenya,,34
+negative,Kenya,WeÛªll lose touch with one another,0
+negative,Kenya,The loss of privacy,122
+negative,Kenya,I have no fears about a more connected future,45
+negative,Kenya,Other (please specify),4
+negative,Kenya,WeÛªll be less safe,0
+positive,Holy See (Vatican City State),,0
+positive,Holy See (Vatican City State),How much fun it will be,0
+positive,Holy See (Vatican City State),How it will make us all smarter and better educated,0
+positive,Holy See (Vatican City State),How easy it will make life,1
+positive,Holy See (Vatican City State),How it will bring the world together,0
+positive,Holy See (Vatican City State),Other (please specify),0
+positive,Holy See (Vatican City State),None of the above,1
+negative,Holy See (Vatican City State),,0
+negative,Holy See (Vatican City State),WeÛªll lose touch with one another,0
+negative,Holy See (Vatican City State),The loss of privacy,0
+negative,Holy See (Vatican City State),I have no fears about a more connected future,0
+negative,Holy See (Vatican City State),Other (please specify),0
+negative,Holy See (Vatican City State),WeÛªll be less safe,0
+positive,Tonga,,0
+positive,Tonga,How much fun it will be,0
+positive,Tonga,How it will make us all smarter and better educated,0
+positive,Tonga,How easy it will make life,0
+positive,Tonga,How it will bring the world together,2
+positive,Tonga,Other (please specify),0
+positive,Tonga,None of the above,0
+negative,Tonga,,0
+negative,Tonga,WeÛªll lose touch with one another,0
+negative,Tonga,The loss of privacy,1
+negative,Tonga,I have no fears about a more connected future,0
+negative,Tonga,Other (please specify),0
+negative,Tonga,WeÛªll be less safe,0
+positive,United States,,465
+positive,United States,How much fun it will be,1369
+positive,United States,How it will make us all smarter and better educated,3714
+positive,United States,How easy it will make life,3123
+positive,United States,How it will bring the world together,2826
+positive,United States,Other (please specify),2386
+positive,United States,None of the above,6371
+negative,United States,,542
+negative,United States,WeÛªll lose touch with one another,0
+negative,United States,The loss of privacy,9916
+negative,United States,I have no fears about a more connected future,967
+negative,United States,Other (please specify),2570
+negative,United States,WeÛªll be less safe,0
+positive,Libya,,7
+positive,Libya,How much fun it will be,0
+positive,Libya,How it will make us all smarter and better educated,0
+positive,Libya,How easy it will make life,0
+positive,Libya,How it will bring the world together,1
+positive,Libya,Other (please specify),0
+positive,Libya,None of the above,0
+negative,Libya,,7
+negative,Libya,WeÛªll lose touch with one another,0
+negative,Libya,The loss of privacy,1
+negative,Libya,I have no fears about a more connected future,0
+negative,Libya,Other (please specify),0
+negative,Libya,WeÛªll be less safe,0
+positive,Senegal,,62
+positive,Senegal,How much fun it will be,6
+positive,Senegal,How it will make us all smarter and better educated,36
+positive,Senegal,How easy it will make life,48
+positive,Senegal,How it will bring the world together,22
+positive,Senegal,Other (please specify),5
+positive,Senegal,None of the above,13
+negative,Senegal,,60
+negative,Senegal,WeÛªll lose touch with one another,0
+negative,Senegal,The loss of privacy,61
+negative,Senegal,I have no fears about a more connected future,11
+negative,Senegal,Other (please specify),10
+negative,Senegal,WeÛªll be less safe,0
+positive,French Polynesia,,4
+positive,French Polynesia,How much fun it will be,6
+positive,French Polynesia,How it will make us all smarter and better educated,14
+positive,French Polynesia,How easy it will make life,21
+positive,French Polynesia,How it will bring the world together,9
+positive,French Polynesia,Other (please specify),3
+positive,French Polynesia,None of the above,32
+negative,French Polynesia,,4
+negative,French Polynesia,WeÛªll lose touch with one another,0
+negative,French Polynesia,The loss of privacy,40
+negative,French Polynesia,I have no fears about a more connected future,5
+negative,French Polynesia,Other (please specify),9
+negative,French Polynesia,WeÛªll be less safe,0
+positive,Georgia,,8
+positive,Georgia,How much fun it will be,1
+positive,Georgia,How it will make us all smarter and better educated,3
+positive,Georgia,How easy it will make life,3
+positive,Georgia,How it will bring the world together,2
+positive,Georgia,Other (please specify),1
+positive,Georgia,None of the above,2
+negative,Georgia,,9
+negative,Georgia,WeÛªll lose touch with one another,0
+negative,Georgia,The loss of privacy,6
+negative,Georgia,I have no fears about a more connected future,0
+negative,Georgia,Other (please specify),1
+negative,Georgia,WeÛªll be less safe,0
+positive,Syrian Arab Republic,,6
+positive,Syrian Arab Republic,How much fun it will be,3
+positive,Syrian Arab Republic,How it will make us all smarter and better educated,5
+positive,Syrian Arab Republic,How easy it will make life,5
+positive,Syrian Arab Republic,How it will bring the world together,0
+positive,Syrian Arab Republic,Other (please specify),0
+positive,Syrian Arab Republic,None of the above,0
+negative,Syrian Arab Republic,,6
+negative,Syrian Arab Republic,WeÛªll lose touch with one another,0
+negative,Syrian Arab Republic,The loss of privacy,5
+negative,Syrian Arab Republic,I have no fears about a more connected future,4
+negative,Syrian Arab Republic,Other (please specify),0
+negative,Syrian Arab Republic,WeÛªll be less safe,0
+positive,Guam,,0
+positive,Guam,How much fun it will be,1
+positive,Guam,How it will make us all smarter and better educated,1
+positive,Guam,How easy it will make life,0
+positive,Guam,How it will bring the world together,1
+positive,Guam,Other (please specify),0
+positive,Guam,None of the above,0
+negative,Guam,,0
+negative,Guam,WeÛªll lose touch with one another,0
+negative,Guam,The loss of privacy,0
+negative,Guam,I have no fears about a more connected future,0
+negative,Guam,Other (please specify),1
+negative,Guam,WeÛªll be less safe,0
+positive,Austria,,83
+positive,Austria,How much fun it will be,182
+positive,Austria,How it will make us all smarter and better educated,253
+positive,Austria,How easy it will make life,511
+positive,Austria,How it will bring the world together,373
+positive,Austria,Other (please specify),106
+positive,Austria,None of the above,647
+negative,Austria,,80
+negative,Austria,WeÛªll lose touch with one another,0
+negative,Austria,The loss of privacy,1035
+negative,Austria,I have no fears about a more connected future,158
+negative,Austria,Other (please specify),185
+negative,Austria,WeÛªll be less safe,0
+positive,Malta,,2
+positive,Malta,How much fun it will be,6
+positive,Malta,How it will make us all smarter and better educated,6
+positive,Malta,How easy it will make life,12
+positive,Malta,How it will bring the world together,4
+positive,Malta,Other (please specify),3
+positive,Malta,None of the above,11
+negative,Malta,,2
+negative,Malta,WeÛªll lose touch with one another,0
+negative,Malta,The loss of privacy,16
+negative,Malta,I have no fears about a more connected future,4
+negative,Malta,Other (please specify),3
+negative,Malta,WeÛªll be less safe,0
+positive,Fiji,,0
+positive,Fiji,How much fun it will be,1
+positive,Fiji,How it will make us all smarter and better educated,4
+positive,Fiji,How easy it will make life,6
+positive,Fiji,How it will bring the world together,2
+positive,Fiji,Other (please specify),0
+positive,Fiji,None of the above,4
+negative,Fiji,,0
+negative,Fiji,WeÛªll lose touch with one another,0
+negative,Fiji,The loss of privacy,13
+negative,Fiji,I have no fears about a more connected future,2
+negative,Fiji,Other (please specify),0
+negative,Fiji,WeÛªll be less safe,0
+positive,Ecuador,,145
+positive,Ecuador,How much fun it will be,209
+positive,Ecuador,How it will make us all smarter and better educated,220
+positive,Ecuador,How easy it will make life,308
+positive,Ecuador,How it will bring the world together,182
+positive,Ecuador,Other (please specify),91
+positive,Ecuador,None of the above,186
+negative,Ecuador,,164
+negative,Ecuador,WeÛªll lose touch with one another,0
+negative,Ecuador,The loss of privacy,522
+negative,Ecuador,I have no fears about a more connected future,141
+negative,Ecuador,Other (please specify),72
+negative,Ecuador,WeÛªll be less safe,0
+positive,Virgin Islands, U.S.,,0
+positive,Virgin Islands, U.S.,How much fun it will be,0
+positive,Virgin Islands, U.S.,How it will make us all smarter and better educated,1
+positive,Virgin Islands, U.S.,How easy it will make life,2
+positive,Virgin Islands, U.S.,How it will bring the world together,1
+positive,Virgin Islands, U.S.,Other (please specify),0
+positive,Virgin Islands, U.S.,None of the above,0
+negative,Virgin Islands, U.S.,,0
+negative,Virgin Islands, U.S.,WeÛªll lose touch with one another,0
+negative,Virgin Islands, U.S.,The loss of privacy,1
+negative,Virgin Islands, U.S.,I have no fears about a more connected future,1
+negative,Virgin Islands, U.S.,Other (please specify),0
+negative,Virgin Islands, U.S.,WeÛªll be less safe,0
+positive,Cameroon,,49
+positive,Cameroon,How much fun it will be,8
+positive,Cameroon,How it will make us all smarter and better educated,48
+positive,Cameroon,How easy it will make life,79
+positive,Cameroon,How it will bring the world together,44
+positive,Cameroon,Other (please specify),18
+positive,Cameroon,None of the above,26
+negative,Cameroon,,50
+negative,Cameroon,WeÛªll lose touch with one another,0
+negative,Cameroon,The loss of privacy,103
+negative,Cameroon,I have no fears about a more connected future,25
+negative,Cameroon,Other (please specify),18
+negative,Cameroon,WeÛªll be less safe,0
+positive,Macedonia,,8
+positive,Macedonia,How much fun it will be,4
+positive,Macedonia,How it will make us all smarter and better educated,6
+positive,Macedonia,How easy it will make life,9
+positive,Macedonia,How it will bring the world together,1
+positive,Macedonia,Other (please specify),1
+positive,Macedonia,None of the above,7
+negative,Macedonia,,7
+negative,Macedonia,WeÛªll lose touch with one another,0
+negative,Macedonia,The loss of privacy,12
+negative,Macedonia,I have no fears about a more connected future,3
+negative,Macedonia,Other (please specify),1
+negative,Macedonia,WeÛªll be less safe,0
+positive,Macau,,0
+positive,Macau,How much fun it will be,0
+positive,Macau,How it will make us all smarter and better educated,0
+positive,Macau,How easy it will make life,2
+positive,Macau,How it will bring the world together,0
+positive,Macau,Other (please specify),0
+positive,Macau,None of the above,1
+negative,Macau,,0
+negative,Macau,WeÛªll lose touch with one another,0
+negative,Macau,The loss of privacy,1
+negative,Macau,I have no fears about a more connected future,1
+negative,Macau,Other (please specify),0
+negative,Macau,WeÛªll be less safe,0
+positive,Tanzania, United Republic of,,22
+positive,Tanzania, United Republic of,How much fun it will be,6
+positive,Tanzania, United Republic of,How it will make us all smarter and better educated,5
+positive,Tanzania, United Republic of,How easy it will make life,18
+positive,Tanzania, United Republic of,How it will bring the world together,14
+positive,Tanzania, United Republic of,Other (please specify),2
+positive,Tanzania, United Republic of,None of the above,5
+negative,Tanzania, United Republic of,,22
+negative,Tanzania, United Republic of,WeÛªll lose touch with one another,0
+negative,Tanzania, United Republic of,The loss of privacy,21
+negative,Tanzania, United Republic of,I have no fears about a more connected future,11
+negative,Tanzania, United Republic of,Other (please specify),2
+negative,Tanzania, United Republic of,WeÛªll be less safe,0
+positive,Lao People's Democratic Republic,,12
+positive,Lao People's Democratic Republic,How much fun it will be,0
+positive,Lao People's Democratic Republic,How it will make us all smarter and better educated,1
+positive,Lao People's Democratic Republic,How easy it will make life,4
+positive,Lao People's Democratic Republic,How it will bring the world together,1
+positive,Lao People's Democratic Republic,Other (please specify),0
+positive,Lao People's Democratic Republic,None of the above,0
+negative,Lao People's Democratic Republic,,12
+negative,Lao People's Democratic Republic,WeÛªll lose touch with one another,0
+negative,Lao People's Democratic Republic,The loss of privacy,4
+negative,Lao People's Democratic Republic,I have no fears about a more connected future,2
+negative,Lao People's Democratic Republic,Other (please specify),0
+negative,Lao People's Democratic Republic,WeÛªll be less safe,0
+positive,Marshall Islands,,0
+positive,Marshall Islands,How much fun it will be,0
+positive,Marshall Islands,How it will make us all smarter and better educated,0
+positive,Marshall Islands,How easy it will make life,0
+positive,Marshall Islands,How it will bring the world together,0
+positive,Marshall Islands,Other (please specify),1
+positive,Marshall Islands,None of the above,0
+negative,Marshall Islands,,0
+negative,Marshall Islands,WeÛªll lose touch with one another,0
+negative,Marshall Islands,The loss of privacy,0
+negative,Marshall Islands,I have no fears about a more connected future,0
+negative,Marshall Islands,Other (please specify),1
+negative,Marshall Islands,WeÛªll be less safe,0
+positive,Mozambique,,6
+positive,Mozambique,How much fun it will be,5
+positive,Mozambique,How it will make us all smarter and better educated,3
+positive,Mozambique,How easy it will make life,8
+positive,Mozambique,How it will bring the world together,1
+positive,Mozambique,Other (please specify),0
+positive,Mozambique,None of the above,4
+negative,Mozambique,,6
+negative,Mozambique,WeÛªll lose touch with one another,0
+negative,Mozambique,The loss of privacy,7
+negative,Mozambique,I have no fears about a more connected future,5
+negative,Mozambique,Other (please specify),1
+negative,Mozambique,WeÛªll be less safe,0
+positive,Bahrain,,3
+positive,Bahrain,How much fun it will be,1
+positive,Bahrain,How it will make us all smarter and better educated,3
+positive,Bahrain,How easy it will make life,8
+positive,Bahrain,How it will bring the world together,3
+positive,Bahrain,Other (please specify),0
+positive,Bahrain,None of the above,2
+negative,Bahrain,,3
+negative,Bahrain,WeÛªll lose touch with one another,0
+negative,Bahrain,The loss of privacy,11
+negative,Bahrain,I have no fears about a more connected future,1
+negative,Bahrain,Other (please specify),1
+negative,Bahrain,WeÛªll be less safe,0
+positive,Cayman Islands,,0
+positive,Cayman Islands,How much fun it will be,0
+positive,Cayman Islands,How it will make us all smarter and better educated,0
+positive,Cayman Islands,How easy it will make life,1
+positive,Cayman Islands,How it will bring the world together,0
+positive,Cayman Islands,Other (please specify),0
+positive,Cayman Islands,None of the above,1
+negative,Cayman Islands,,0
+negative,Cayman Islands,WeÛªll lose touch with one another,0
+negative,Cayman Islands,The loss of privacy,0
+negative,Cayman Islands,I have no fears about a more connected future,0
+negative,Cayman Islands,Other (please specify),0
+negative,Cayman Islands,WeÛªll be less safe,0
+positive,Guernsey,,0
+positive,Guernsey,How much fun it will be,1
+positive,Guernsey,How it will make us all smarter and better educated,4
+positive,Guernsey,How easy it will make life,1
+positive,Guernsey,How it will bring the world together,2
+positive,Guernsey,Other (please specify),1
+positive,Guernsey,None of the above,3
+negative,Guernsey,,0
+negative,Guernsey,WeÛªll lose touch with one another,0
+negative,Guernsey,The loss of privacy,5
+negative,Guernsey,I have no fears about a more connected future,2
+negative,Guernsey,Other (please specify),0
+negative,Guernsey,WeÛªll be less safe,0
+positive,Turkey,,12
+positive,Turkey,How much fun it will be,17
+positive,Turkey,How it will make us all smarter and better educated,29
+positive,Turkey,How easy it will make life,37
+positive,Turkey,How it will bring the world together,28
+positive,Turkey,Other (please specify),10
+positive,Turkey,None of the above,26
+negative,Turkey,,14
+negative,Turkey,WeÛªll lose touch with one another,0
+negative,Turkey,The loss of privacy,74
+negative,Turkey,I have no fears about a more connected future,13
+negative,Turkey,Other (please specify),11
+negative,Turkey,WeÛªll be less safe,0
+positive,Burkina Faso,,15
+positive,Burkina Faso,How much fun it will be,0
+positive,Burkina Faso,How it will make us all smarter and better educated,9
+positive,Burkina Faso,How easy it will make life,14
+positive,Burkina Faso,How it will bring the world together,15
+positive,Burkina Faso,Other (please specify),4
+positive,Burkina Faso,None of the above,11
+negative,Burkina Faso,,16
+negative,Burkina Faso,WeÛªll lose touch with one another,0
+negative,Burkina Faso,The loss of privacy,20
+negative,Burkina Faso,I have no fears about a more connected future,5
+negative,Burkina Faso,Other (please specify),6
+negative,Burkina Faso,WeÛªll be less safe,0
+positive,Azerbaijan,,1
+positive,Azerbaijan,How much fun it will be,1
+positive,Azerbaijan,How it will make us all smarter and better educated,0
+positive,Azerbaijan,How easy it will make life,2
+positive,Azerbaijan,How it will bring the world together,0
+positive,Azerbaijan,Other (please specify),0
+positive,Azerbaijan,None of the above,0
+negative,Azerbaijan,,2
+negative,Azerbaijan,WeÛªll lose touch with one another,0
+negative,Azerbaijan,The loss of privacy,0
+negative,Azerbaijan,I have no fears about a more connected future,1
+negative,Azerbaijan,Other (please specify),0
+negative,Azerbaijan,WeÛªll be less safe,0
+positive,Saint Lucia,,0
+positive,Saint Lucia,How much fun it will be,0
+positive,Saint Lucia,How it will make us all smarter and better educated,1
+positive,Saint Lucia,How easy it will make life,0
+positive,Saint Lucia,How it will bring the world together,0
+positive,Saint Lucia,Other (please specify),0
+positive,Saint Lucia,None of the above,1
+negative,Saint Lucia,,0
+negative,Saint Lucia,WeÛªll lose touch with one another,0
+negative,Saint Lucia,The loss of privacy,1
+negative,Saint Lucia,I have no fears about a more connected future,0
+negative,Saint Lucia,Other (please specify),0
+negative,Saint Lucia,WeÛªll be less safe,0
+positive,Saudi Arabia,,26
+positive,Saudi Arabia,How much fun it will be,12
+positive,Saudi Arabia,How it will make us all smarter and better educated,21
+positive,Saudi Arabia,How easy it will make life,24
+positive,Saudi Arabia,How it will bring the world together,11
+positive,Saudi Arabia,Other (please specify),5
+positive,Saudi Arabia,None of the above,8
+negative,Saudi Arabia,,28
+negative,Saudi Arabia,WeÛªll lose touch with one another,0
+negative,Saudi Arabia,The loss of privacy,29
+negative,Saudi Arabia,I have no fears about a more connected future,5
+negative,Saudi Arabia,Other (please specify),2
+negative,Saudi Arabia,WeÛªll be less safe,0
+positive,El Salvador,,22
+positive,El Salvador,How much fun it will be,47
+positive,El Salvador,How it will make us all smarter and better educated,66
+positive,El Salvador,How easy it will make life,102
+positive,El Salvador,How it will bring the world together,52
+positive,El Salvador,Other (please specify),23
+positive,El Salvador,None of the above,57
+negative,El Salvador,,20
+negative,El Salvador,WeÛªll lose touch with one another,0
+negative,El Salvador,The loss of privacy,157
+negative,El Salvador,I have no fears about a more connected future,36
+negative,El Salvador,Other (please specify),21
+negative,El Salvador,WeÛªll be less safe,0
+positive,Poland,,9
+positive,Poland,How much fun it will be,21
+positive,Poland,How it will make us all smarter and better educated,34
+positive,Poland,How easy it will make life,55
+positive,Poland,How it will bring the world together,29
+positive,Poland,Other (please specify),18
+positive,Poland,None of the above,28
+negative,Poland,,10
+negative,Poland,WeÛªll lose touch with one another,0
+negative,Poland,The loss of privacy,99
+negative,Poland,I have no fears about a more connected future,7
+negative,Poland,Other (please specify),22
+negative,Poland,WeÛªll be less safe,0
+positive,Kazakhstan,,0
+positive,Kazakhstan,How much fun it will be,0
+positive,Kazakhstan,How it will make us all smarter and better educated,4
+positive,Kazakhstan,How easy it will make life,3
+positive,Kazakhstan,How it will bring the world together,1
+positive,Kazakhstan,Other (please specify),1
+positive,Kazakhstan,None of the above,0
+negative,Kazakhstan,,0
+negative,Kazakhstan,WeÛªll lose touch with one another,0
+negative,Kazakhstan,The loss of privacy,4
+negative,Kazakhstan,I have no fears about a more connected future,0
+negative,Kazakhstan,Other (please specify),0
+negative,Kazakhstan,WeÛªll be less safe,0
+positive,Bolivia,,49
+positive,Bolivia,How much fun it will be,64
+positive,Bolivia,How it will make us all smarter and better educated,70
+positive,Bolivia,How easy it will make life,104
+positive,Bolivia,How it will bring the world together,52
+positive,Bolivia,Other (please specify),29
+positive,Bolivia,None of the above,62
+negative,Bolivia,,51
+negative,Bolivia,WeÛªll lose touch with one another,0
+negative,Bolivia,The loss of privacy,162
+negative,Bolivia,I have no fears about a more connected future,57
+negative,Bolivia,Other (please specify),20
+negative,Bolivia,WeÛªll be less safe,0
+positive,Benin,,15
+positive,Benin,How much fun it will be,6
+positive,Benin,How it will make us all smarter and better educated,16
+positive,Benin,How easy it will make life,17
+positive,Benin,How it will bring the world together,22
+positive,Benin,Other (please specify),5
+positive,Benin,None of the above,9
+negative,Benin,,18
+negative,Benin,WeÛªll lose touch with one another,0
+negative,Benin,The loss of privacy,27
+negative,Benin,I have no fears about a more connected future,11
+negative,Benin,Other (please specify),6
+negative,Benin,WeÛªll be less safe,0
+positive,Montenegro,,4
+positive,Montenegro,How much fun it will be,1
+positive,Montenegro,How it will make us all smarter and better educated,3
+positive,Montenegro,How easy it will make life,4
+positive,Montenegro,How it will bring the world together,2
+positive,Montenegro,Other (please specify),2
+positive,Montenegro,None of the above,1
+negative,Montenegro,,3
+negative,Montenegro,WeÛªll lose touch with one another,0
+negative,Montenegro,The loss of privacy,7
+negative,Montenegro,I have no fears about a more connected future,3
+negative,Montenegro,Other (please specify),1
+negative,Montenegro,WeÛªll be less safe,0
+positive,Tajikistan,,0
+positive,Tajikistan,How much fun it will be,0
+positive,Tajikistan,How it will make us all smarter and better educated,0
+positive,Tajikistan,How easy it will make life,1
+positive,Tajikistan,How it will bring the world together,0
+positive,Tajikistan,Other (please specify),0
+positive,Tajikistan,None of the above,0
+negative,Tajikistan,,0
+negative,Tajikistan,WeÛªll lose touch with one another,0
+negative,Tajikistan,The loss of privacy,1
+negative,Tajikistan,I have no fears about a more connected future,0
+negative,Tajikistan,Other (please specify),0
+negative,Tajikistan,WeÛªll be less safe,0
+positive,Anguilla,,0
+positive,Anguilla,How much fun it will be,0
+positive,Anguilla,How it will make us all smarter and better educated,1
+positive,Anguilla,How easy it will make life,0
+positive,Anguilla,How it will bring the world together,0
+positive,Anguilla,Other (please specify),0
+positive,Anguilla,None of the above,0
+negative,Anguilla,,0
+negative,Anguilla,WeÛªll lose touch with one another,0
+negative,Anguilla,The loss of privacy,0
+negative,Anguilla,I have no fears about a more connected future,0
+negative,Anguilla,Other (please specify),0
+negative,Anguilla,WeÛªll be less safe,0
+positive,Saint Vincent and the Grenadines,,0
+positive,Saint Vincent and the Grenadines,How much fun it will be,0
+positive,Saint Vincent and the Grenadines,How it will make us all smarter and better educated,1
+positive,Saint Vincent and the Grenadines,How easy it will make life,0
+positive,Saint Vincent and the Grenadines,How it will bring the world together,0
+positive,Saint Vincent and the Grenadines,Other (please specify),0
+positive,Saint Vincent and the Grenadines,None of the above,0
+negative,Saint Vincent and the Grenadines,,0
+negative,Saint Vincent and the Grenadines,WeÛªll lose touch with one another,0
+negative,Saint Vincent and the Grenadines,The loss of privacy,1
+negative,Saint Vincent and the Grenadines,I have no fears about a more connected future,0
+negative,Saint Vincent and the Grenadines,Other (please specify),0
+negative,Saint Vincent and the Grenadines,WeÛªll be less safe,0
+positive,Algeria,,446
+positive,Algeria,How much fun it will be,38
+positive,Algeria,How it will make us all smarter and better educated,148
+positive,Algeria,How easy it will make life,215
+positive,Algeria,How it will bring the world together,108
+positive,Algeria,Other (please specify),43
+positive,Algeria,None of the above,116
+negative,Algeria,,429
+negative,Algeria,WeÛªll lose touch with one another,0
+negative,Algeria,The loss of privacy,236
+negative,Algeria,I have no fears about a more connected future,93
+negative,Algeria,Other (please specify),44
+negative,Algeria,WeÛªll be less safe,0
+positive,Australia,,39
+positive,Australia,How much fun it will be,181
+positive,Australia,How it will make us all smarter and better educated,444
+positive,Australia,How easy it will make life,383
+positive,Australia,How it will bring the world together,408
+positive,Australia,Other (please specify),265
+positive,Australia,None of the above,735
+negative,Australia,,48
+negative,Australia,WeÛªll lose touch with one another,0
+negative,Australia,The loss of privacy,1161
+negative,Australia,I have no fears about a more connected future,166
+negative,Australia,Other (please specify),297
+negative,Australia,WeÛªll be less safe,0
+positive,Armenia,,2
+positive,Armenia,How much fun it will be,0
+positive,Armenia,How it will make us all smarter and better educated,3
+positive,Armenia,How easy it will make life,1
+positive,Armenia,How it will bring the world together,1
+positive,Armenia,Other (please specify),1
+positive,Armenia,None of the above,2
+negative,Armenia,,2
+negative,Armenia,WeÛªll lose touch with one another,0
+negative,Armenia,The loss of privacy,3
+negative,Armenia,I have no fears about a more connected future,0
+negative,Armenia,Other (please specify),1
+negative,Armenia,WeÛªll be less safe,0
+positive,Gibraltar,,0
+positive,Gibraltar,How much fun it will be,0
+positive,Gibraltar,How it will make us all smarter and better educated,0
+positive,Gibraltar,How easy it will make life,1
+positive,Gibraltar,How it will bring the world together,0
+positive,Gibraltar,Other (please specify),0
+positive,Gibraltar,None of the above,1
+negative,Gibraltar,,0
+negative,Gibraltar,WeÛªll lose touch with one another,0
+negative,Gibraltar,The loss of privacy,1
+negative,Gibraltar,I have no fears about a more connected future,0
+negative,Gibraltar,Other (please specify),0
+negative,Gibraltar,WeÛªll be less safe,0
+positive,Malaysia,,36
+positive,Malaysia,How much fun it will be,31
+positive,Malaysia,How it will make us all smarter and better educated,59
+positive,Malaysia,How easy it will make life,95
+positive,Malaysia,How it will bring the world together,58
+positive,Malaysia,Other (please specify),15
+positive,Malaysia,None of the above,31
+negative,Malaysia,,38
+negative,Malaysia,WeÛªll lose touch with one another,0
+negative,Malaysia,The loss of privacy,147
+negative,Malaysia,I have no fears about a more connected future,29
+negative,Malaysia,Other (please specify),19
+negative,Malaysia,WeÛªll be less safe,0
+positive,Madagascar,,35
+positive,Madagascar,How much fun it will be,12
+positive,Madagascar,How it will make us all smarter and better educated,50
+positive,Madagascar,How easy it will make life,37
+positive,Madagascar,How it will bring the world together,15
+positive,Madagascar,Other (please specify),9
+positive,Madagascar,None of the above,29
+negative,Madagascar,,32
+negative,Madagascar,WeÛªll lose touch with one another,0
+negative,Madagascar,The loss of privacy,54
+negative,Madagascar,I have no fears about a more connected future,16
+negative,Madagascar,Other (please specify),8
+negative,Madagascar,WeÛªll be less safe,0
+positive,Trinidad and Tobago,,1
+positive,Trinidad and Tobago,How much fun it will be,3
+positive,Trinidad and Tobago,How it will make us all smarter and better educated,6
+positive,Trinidad and Tobago,How easy it will make life,9
+positive,Trinidad and Tobago,How it will bring the world together,6
+positive,Trinidad and Tobago,Other (please specify),0
+positive,Trinidad and Tobago,None of the above,8
+negative,Trinidad and Tobago,,1
+negative,Trinidad and Tobago,WeÛªll lose touch with one another,0
+negative,Trinidad and Tobago,The loss of privacy,19
+negative,Trinidad and Tobago,I have no fears about a more connected future,3
+negative,Trinidad and Tobago,Other (please specify),1
+negative,Trinidad and Tobago,WeÛªll be less safe,0
+positive,Angola,,11
+positive,Angola,How much fun it will be,1
+positive,Angola,How it will make us all smarter and better educated,2
+positive,Angola,How easy it will make life,7
+positive,Angola,How it will bring the world together,3
+positive,Angola,Other (please specify),2
+positive,Angola,None of the above,3
+negative,Angola,,12
+negative,Angola,WeÛªll lose touch with one another,0
+negative,Angola,The loss of privacy,3
+negative,Angola,I have no fears about a more connected future,4
+negative,Angola,Other (please specify),1
+negative,Angola,WeÛªll be less safe,0
+positive,Indonesia,,457
+positive,Indonesia,How much fun it will be,100
+positive,Indonesia,How it will make us all smarter and better educated,228
+positive,Indonesia,How easy it will make life,269
+positive,Indonesia,How it will bring the world together,91
+positive,Indonesia,Other (please specify),41
+positive,Indonesia,None of the above,51
+negative,Indonesia,,476
+negative,Indonesia,WeÛªll lose touch with one another,0
+negative,Indonesia,The loss of privacy,326
+negative,Indonesia,I have no fears about a more connected future,87
+negative,Indonesia,Other (please specify),41
+negative,Indonesia,WeÛªll be less safe,0
+positive,Vietnam,,49
+positive,Vietnam,How much fun it will be,11
+positive,Vietnam,How it will make us all smarter and better educated,21
+positive,Vietnam,How easy it will make life,32
+positive,Vietnam,How it will bring the world together,14
+positive,Vietnam,Other (please specify),4
+positive,Vietnam,None of the above,9
+negative,Vietnam,,48
+negative,Vietnam,WeÛªll lose touch with one another,0
+negative,Vietnam,The loss of privacy,48
+negative,Vietnam,I have no fears about a more connected future,5
+negative,Vietnam,Other (please specify),7
+negative,Vietnam,WeÛªll be less safe,0
+positive,United Kingdom,,118
+positive,United Kingdom,How much fun it will be,356
+positive,United Kingdom,How it will make us all smarter and better educated,857
+positive,United Kingdom,How easy it will make life,902
+positive,United Kingdom,How it will bring the world together,805
+positive,United Kingdom,Other (please specify),431
+positive,United Kingdom,None of the above,1620
+negative,United Kingdom,,113
+negative,United Kingdom,WeÛªll lose touch with one another,0
+negative,United Kingdom,The loss of privacy,2345
+negative,United Kingdom,I have no fears about a more connected future,249
+negative,United Kingdom,Other (please specify),572
+negative,United Kingdom,WeÛªll be less safe,0
+positive,Cuba,,9
+positive,Cuba,How much fun it will be,13
+positive,Cuba,How it will make us all smarter and better educated,17
+positive,Cuba,How easy it will make life,31
+positive,Cuba,How it will bring the world together,21
+positive,Cuba,Other (please specify),10
+positive,Cuba,None of the above,6
+negative,Cuba,,10
+negative,Cuba,WeÛªll lose touch with one another,0
+negative,Cuba,The loss of privacy,45
+negative,Cuba,I have no fears about a more connected future,21
+negative,Cuba,Other (please specify),5
+negative,Cuba,WeÛªll be less safe,0
+positive,Rwanda,,8
+positive,Rwanda,How much fun it will be,2
+positive,Rwanda,How it will make us all smarter and better educated,4
+positive,Rwanda,How easy it will make life,2
+positive,Rwanda,How it will bring the world together,3
+positive,Rwanda,Other (please specify),0
+positive,Rwanda,None of the above,3
+negative,Rwanda,,8
+negative,Rwanda,WeÛªll lose touch with one another,0
+negative,Rwanda,The loss of privacy,7
+negative,Rwanda,I have no fears about a more connected future,5
+negative,Rwanda,Other (please specify),0
+negative,Rwanda,WeÛªll be less safe,0
+positive,United Arab Emirates,,25
+positive,United Arab Emirates,How much fun it will be,4
+positive,United Arab Emirates,How it will make us all smarter and better educated,35
+positive,United Arab Emirates,How easy it will make life,32
+positive,United Arab Emirates,How it will bring the world together,35
+positive,United Arab Emirates,Other (please specify),2
+positive,United Arab Emirates,None of the above,22
+negative,United Arab Emirates,,23
+negative,United Arab Emirates,WeÛªll lose touch with one another,0
+negative,United Arab Emirates,The loss of privacy,68
+negative,United Arab Emirates,I have no fears about a more connected future,8
+negative,United Arab Emirates,Other (please specify),6
+negative,United Arab Emirates,WeÛªll be less safe,0
+positive,Greece,,20
+positive,Greece,How much fun it will be,34
+positive,Greece,How it will make us all smarter and better educated,79
+positive,Greece,How easy it will make life,109
+positive,Greece,How it will bring the world together,49
+positive,Greece,Other (please specify),23
+positive,Greece,None of the above,86
+negative,Greece,,19
+negative,Greece,WeÛªll lose touch with one another,0
+negative,Greece,The loss of privacy,198
+negative,Greece,I have no fears about a more connected future,30
+negative,Greece,Other (please specify),27
+negative,Greece,WeÛªll be less safe,0
+positive,Sudan,,21
+positive,Sudan,How much fun it will be,0
+positive,Sudan,How it will make us all smarter and better educated,9
+positive,Sudan,How easy it will make life,7
+positive,Sudan,How it will bring the world together,2
+positive,Sudan,Other (please specify),1
+positive,Sudan,None of the above,1
+negative,Sudan,,21
+negative,Sudan,WeÛªll lose touch with one another,0
+negative,Sudan,The loss of privacy,11
+negative,Sudan,I have no fears about a more connected future,2
+negative,Sudan,Other (please specify),1
+negative,Sudan,WeÛªll be less safe,0
+positive,Grenada,,0
+positive,Grenada,How much fun it will be,0
+positive,Grenada,How it will make us all smarter and better educated,0
+positive,Grenada,How easy it will make life,0
+positive,Grenada,How it will bring the world together,0
+positive,Grenada,Other (please specify),0
+positive,Grenada,None of the above,2
+negative,Grenada,,0
+negative,Grenada,WeÛªll lose touch with one another,0
+negative,Grenada,The loss of privacy,0
+negative,Grenada,I have no fears about a more connected future,0
+negative,Grenada,Other (please specify),1
+negative,Grenada,WeÛªll be less safe,0
+positive,Zambia,,6
+positive,Zambia,How much fun it will be,0
+positive,Zambia,How it will make us all smarter and better educated,4
+positive,Zambia,How easy it will make life,8
+positive,Zambia,How it will bring the world together,10
+positive,Zambia,Other (please specify),0
+positive,Zambia,None of the above,1
+negative,Zambia,,5
+negative,Zambia,WeÛªll lose touch with one another,0
+negative,Zambia,The loss of privacy,8
+negative,Zambia,I have no fears about a more connected future,3
+negative,Zambia,Other (please specify),1
+negative,Zambia,WeÛªll be less safe,0
+positive,Latvia,,5
+positive,Latvia,How much fun it will be,6
+positive,Latvia,How it will make us all smarter and better educated,5
+positive,Latvia,How easy it will make life,13
+positive,Latvia,How it will bring the world together,3
+positive,Latvia,Other (please specify),4
+positive,Latvia,None of the above,8
+negative,Latvia,,8
+negative,Latvia,WeÛªll lose touch with one another,0
+negative,Latvia,The loss of privacy,18
+negative,Latvia,I have no fears about a more connected future,3
+negative,Latvia,Other (please specify),2
+negative,Latvia,WeÛªll be less safe,0
+positive,Belgium,,110
+positive,Belgium,How much fun it will be,168
+positive,Belgium,How it will make us all smarter and better educated,361
+positive,Belgium,How easy it will make life,623
+positive,Belgium,How it will bring the world together,271
+positive,Belgium,Other (please specify),247
+positive,Belgium,None of the above,757
+negative,Belgium,,109
+negative,Belgium,WeÛªll lose touch with one another,0
+negative,Belgium,The loss of privacy,1163
+negative,Belgium,I have no fears about a more connected future,119
+negative,Belgium,Other (please specify),308
+negative,Belgium,WeÛªll be less safe,0
+positive,Andorra,,1
+positive,Andorra,How much fun it will be,1
+positive,Andorra,How it will make us all smarter and better educated,0
+positive,Andorra,How easy it will make life,2
+positive,Andorra,How it will bring the world together,2
+positive,Andorra,Other (please specify),1
+positive,Andorra,None of the above,2
+negative,Andorra,,1
+negative,Andorra,WeÛªll lose touch with one another,0
+negative,Andorra,The loss of privacy,5
+negative,Andorra,I have no fears about a more connected future,0
+negative,Andorra,Other (please specify),0
+negative,Andorra,WeÛªll be less safe,0
+positive,Saint Martin,,0
+positive,Saint Martin,How much fun it will be,0
+positive,Saint Martin,How it will make us all smarter and better educated,0
+positive,Saint Martin,How easy it will make life,0
+positive,Saint Martin,How it will bring the world together,0
+positive,Saint Martin,Other (please specify),0
+positive,Saint Martin,None of the above,1
+negative,Saint Martin,,0
+negative,Saint Martin,WeÛªll lose touch with one another,0
+negative,Saint Martin,The loss of privacy,0
+negative,Saint Martin,I have no fears about a more connected future,0
+negative,Saint Martin,Other (please specify),0
+negative,Saint Martin,WeÛªll be less safe,0
+positive,Sierra Leone,,2
+positive,Sierra Leone,How much fun it will be,0
+positive,Sierra Leone,How it will make us all smarter and better educated,2
+positive,Sierra Leone,How easy it will make life,2
+positive,Sierra Leone,How it will bring the world together,0
+positive,Sierra Leone,Other (please specify),0
+positive,Sierra Leone,None of the above,0
+negative,Sierra Leone,,2
+negative,Sierra Leone,WeÛªll lose touch with one another,0
+negative,Sierra Leone,The loss of privacy,2
+negative,Sierra Leone,I have no fears about a more connected future,1
+negative,Sierra Leone,Other (please specify),0
+negative,Sierra Leone,WeÛªll be less safe,0
+positive,India,,1960
+positive,India,How much fun it will be,338
+positive,India,How it will make us all smarter and better educated,1201
+positive,India,How easy it will make life,1145
+positive,India,How it will bring the world together,652
+positive,India,Other (please specify),192
+positive,India,None of the above,334
+negative,India,,2027
+negative,India,WeÛªll lose touch with one another,0
+negative,India,The loss of privacy,1707
+negative,India,I have no fears about a more connected future,423
+negative,India,Other (please specify),204
+negative,India,WeÛªll be less safe,0
+positive,Panama,,16
+positive,Panama,How much fun it will be,32
+positive,Panama,How it will make us all smarter and better educated,25
+positive,Panama,How easy it will make life,40
+positive,Panama,How it will bring the world together,26
+positive,Panama,Other (please specify),15
+positive,Panama,None of the above,21
+negative,Panama,,19
+negative,Panama,WeÛªll lose touch with one another,0
+negative,Panama,The loss of privacy,83
+negative,Panama,I have no fears about a more connected future,11
+negative,Panama,Other (please specify),8
+negative,Panama,WeÛªll be less safe,0
+positive,Pakistan,,183
+positive,Pakistan,How much fun it will be,30
+positive,Pakistan,How it will make us all smarter and better educated,87
+positive,Pakistan,How easy it will make life,90
+positive,Pakistan,How it will bring the world together,58
+positive,Pakistan,Other (please specify),15
+positive,Pakistan,None of the above,17
+negative,Pakistan,,189
+negative,Pakistan,WeÛªll lose touch with one another,0
+negative,Pakistan,The loss of privacy,123
+negative,Pakistan,I have no fears about a more connected future,31
+negative,Pakistan,Other (please specify),14
+negative,Pakistan,WeÛªll be less safe,0
+positive,Congo,,4
+positive,Congo,How much fun it will be,0
+positive,Congo,How it will make us all smarter and better educated,5
+positive,Congo,How easy it will make life,3
+positive,Congo,How it will bring the world together,1
+positive,Congo,Other (please specify),1
+positive,Congo,None of the above,2
+negative,Congo,,5
+negative,Congo,WeÛªll lose touch with one another,0
+negative,Congo,The loss of privacy,6
+negative,Congo,I have no fears about a more connected future,0
+negative,Congo,Other (please specify),0
+negative,Congo,WeÛªll be less safe,0
+positive,Moldova, Republic of,,1
+positive,Moldova, Republic of,How much fun it will be,1
+positive,Moldova, Republic of,How it will make us all smarter and better educated,1
+positive,Moldova, Republic of,How easy it will make life,4
+positive,Moldova, Republic of,How it will bring the world together,1
+positive,Moldova, Republic of,Other (please specify),0
+positive,Moldova, Republic of,None of the above,4
+negative,Moldova, Republic of,,1
+negative,Moldova, Republic of,WeÛªll lose touch with one another,0
+negative,Moldova, Republic of,The loss of privacy,6
+negative,Moldova, Republic of,I have no fears about a more connected future,1
+negative,Moldova, Republic of,Other (please specify),0
+negative,Moldova, Republic of,WeÛªll be less safe,0
+positive,Netherlands,,25
+positive,Netherlands,How much fun it will be,68
+positive,Netherlands,How it will make us all smarter and better educated,138
+positive,Netherlands,How easy it will make life,180
+positive,Netherlands,How it will bring the world together,120
+positive,Netherlands,Other (please specify),58
+positive,Netherlands,None of the above,166
+negative,Netherlands,,23
+negative,Netherlands,WeÛªll lose touch with one another,0
+negative,Netherlands,The loss of privacy,378
+negative,Netherlands,I have no fears about a more connected future,47
+negative,Netherlands,Other (please specify),64
+negative,Netherlands,WeÛªll be less safe,0
+positive,Liberia,,1
+positive,Liberia,How much fun it will be,0
+positive,Liberia,How it will make us all smarter and better educated,1
+positive,Liberia,How easy it will make life,1
+positive,Liberia,How it will bring the world together,5
+positive,Liberia,Other (please specify),1
+positive,Liberia,None of the above,0
+negative,Liberia,,1
+negative,Liberia,WeÛªll lose touch with one another,0
+negative,Liberia,The loss of privacy,3
+negative,Liberia,I have no fears about a more connected future,2
+negative,Liberia,Other (please specify),1
+negative,Liberia,WeÛªll be less safe,0
+positive,Bulgaria,,12
+positive,Bulgaria,How much fun it will be,15
+positive,Bulgaria,How it will make us all smarter and better educated,33
+positive,Bulgaria,How easy it will make life,34
+positive,Bulgaria,How it will bring the world together,26
+positive,Bulgaria,Other (please specify),5
+positive,Bulgaria,None of the above,33
+negative,Bulgaria,,13
+negative,Bulgaria,WeÛªll lose touch with one another,0
+negative,Bulgaria,The loss of privacy,54
+negative,Bulgaria,I have no fears about a more connected future,12
+negative,Bulgaria,Other (please specify),10
+negative,Bulgaria,WeÛªll be less safe,0
+positive,Hungary,,7
+positive,Hungary,How much fun it will be,13
+positive,Hungary,How it will make us all smarter and better educated,14
+positive,Hungary,How easy it will make life,29
+positive,Hungary,How it will bring the world together,16
+positive,Hungary,Other (please specify),11
+positive,Hungary,None of the above,32
+negative,Hungary,,9
+negative,Hungary,WeÛªll lose touch with one another,0
+negative,Hungary,The loss of privacy,48
+negative,Hungary,I have no fears about a more connected future,7
+negative,Hungary,Other (please specify),8
+negative,Hungary,WeÛªll be less safe,0
+positive,Antigua and Barbuda,,0
+positive,Antigua and Barbuda,How much fun it will be,0
+positive,Antigua and Barbuda,How it will make us all smarter and better educated,0
+positive,Antigua and Barbuda,How easy it will make life,0
+positive,Antigua and Barbuda,How it will bring the world together,1
+positive,Antigua and Barbuda,Other (please specify),0
+positive,Antigua and Barbuda,None of the above,0
+negative,Antigua and Barbuda,,0
+negative,Antigua and Barbuda,WeÛªll lose touch with one another,0
+negative,Antigua and Barbuda,The loss of privacy,0
+negative,Antigua and Barbuda,I have no fears about a more connected future,1
+negative,Antigua and Barbuda,Other (please specify),0
+negative,Antigua and Barbuda,WeÛªll be less safe,0
+positive,Qatar,,6
+positive,Qatar,How much fun it will be,0
+positive,Qatar,How it will make us all smarter and better educated,4
+positive,Qatar,How easy it will make life,6
+positive,Qatar,How it will bring the world together,12
+positive,Qatar,Other (please specify),2
+positive,Qatar,None of the above,3
+negative,Qatar,,7
+negative,Qatar,WeÛªll lose touch with one another,0
+negative,Qatar,The loss of privacy,15
+negative,Qatar,I have no fears about a more connected future,1
+negative,Qatar,Other (please specify),1
+negative,Qatar,WeÛªll be less safe,0
+positive,Sri Lanka,,28
+positive,Sri Lanka,How much fun it will be,7
+positive,Sri Lanka,How it will make us all smarter and better educated,33
+positive,Sri Lanka,How easy it will make life,32
+positive,Sri Lanka,How it will bring the world together,14
+positive,Sri Lanka,Other (please specify),4
+positive,Sri Lanka,None of the above,1
+negative,Sri Lanka,,32
+negative,Sri Lanka,WeÛªll lose touch with one another,0
+negative,Sri Lanka,The loss of privacy,35
+negative,Sri Lanka,I have no fears about a more connected future,13
+negative,Sri Lanka,Other (please specify),6
+negative,Sri Lanka,WeÛªll be less safe,0
+positive,Cyprus,,1
+positive,Cyprus,How much fun it will be,2
+positive,Cyprus,How it will make us all smarter and better educated,4
+positive,Cyprus,How easy it will make life,8
+positive,Cyprus,How it will bring the world together,13
+positive,Cyprus,Other (please specify),5
+positive,Cyprus,None of the above,3
+negative,Cyprus,,1
+negative,Cyprus,WeÛªll lose touch with one another,0
+negative,Cyprus,The loss of privacy,14
+negative,Cyprus,I have no fears about a more connected future,5
+negative,Cyprus,Other (please specify),5
+negative,Cyprus,WeÛªll be less safe,0
+positive,Bahamas,,0
+positive,Bahamas,How much fun it will be,1
+positive,Bahamas,How it will make us all smarter and better educated,4
+positive,Bahamas,How easy it will make life,1
+positive,Bahamas,How it will bring the world together,0
+positive,Bahamas,Other (please specify),0
+positive,Bahamas,None of the above,1
+negative,Bahamas,,0
+negative,Bahamas,WeÛªll lose touch with one another,0
+negative,Bahamas,The loss of privacy,3
+negative,Bahamas,I have no fears about a more connected future,0
+negative,Bahamas,Other (please specify),0
+negative,Bahamas,WeÛªll be less safe,0
+positive,Monaco,,0
+positive,Monaco,How much fun it will be,2
+positive,Monaco,How it will make us all smarter and better educated,2
+positive,Monaco,How easy it will make life,10
+positive,Monaco,How it will bring the world together,1
+positive,Monaco,Other (please specify),0
+positive,Monaco,None of the above,6
+negative,Monaco,,0
+negative,Monaco,WeÛªll lose touch with one another,0
+negative,Monaco,The loss of privacy,8
+negative,Monaco,I have no fears about a more connected future,1
+negative,Monaco,Other (please specify),1
+negative,Monaco,WeÛªll be less safe,0
+positive,Wallis and Futuna,,1
+positive,Wallis and Futuna,How much fun it will be,0
+positive,Wallis and Futuna,How it will make us all smarter and better educated,0
+positive,Wallis and Futuna,How easy it will make life,0
+positive,Wallis and Futuna,How it will bring the world together,0
+positive,Wallis and Futuna,Other (please specify),0
+positive,Wallis and Futuna,None of the above,0
+negative,Wallis and Futuna,,1
+negative,Wallis and Futuna,WeÛªll lose touch with one another,0
+negative,Wallis and Futuna,The loss of privacy,0
+negative,Wallis and Futuna,I have no fears about a more connected future,0
+negative,Wallis and Futuna,Other (please specify),0
+negative,Wallis and Futuna,WeÛªll be less safe,0
+positive,Uruguay,,19
+positive,Uruguay,How much fun it will be,60
+positive,Uruguay,How it will make us all smarter and better educated,67
+positive,Uruguay,How easy it will make life,84
+positive,Uruguay,How it will bring the world together,84
+positive,Uruguay,Other (please specify),45
+positive,Uruguay,None of the above,116
+negative,Uruguay,,24
+negative,Uruguay,WeÛªll lose touch with one another,0
+negative,Uruguay,The loss of privacy,191
+negative,Uruguay,I have no fears about a more connected future,63
+negative,Uruguay,Other (please specify),30
+negative,Uruguay,WeÛªll be less safe,0
+positive,Papua New Guinea,,2
+positive,Papua New Guinea,How much fun it will be,1
+positive,Papua New Guinea,How it will make us all smarter and better educated,3
+positive,Papua New Guinea,How easy it will make life,1
+positive,Papua New Guinea,How it will bring the world together,3
+positive,Papua New Guinea,Other (please specify),1
+positive,Papua New Guinea,None of the above,1
+negative,Papua New Guinea,,2
+negative,Papua New Guinea,WeÛªll lose touch with one another,0
+negative,Papua New Guinea,The loss of privacy,6
+negative,Papua New Guinea,I have no fears about a more connected future,1
+negative,Papua New Guinea,Other (please specify),2
+negative,Papua New Guinea,WeÛªll be less safe,0
+positive,Northern Mariana Islands,,0
+positive,Northern Mariana Islands,How much fun it will be,0
+positive,Northern Mariana Islands,How it will make us all smarter and better educated,1
+positive,Northern Mariana Islands,How easy it will make life,0
+positive,Northern Mariana Islands,How it will bring the world together,0
+positive,Northern Mariana Islands,Other (please specify),0
+positive,Northern Mariana Islands,None of the above,0
+negative,Northern Mariana Islands,,0
+negative,Northern Mariana Islands,WeÛªll lose touch with one another,0
+negative,Northern Mariana Islands,The loss of privacy,0
+negative,Northern Mariana Islands,I have no fears about a more connected future,1
+negative,Northern Mariana Islands,Other (please specify),0
+negative,Northern Mariana Islands,WeÛªll be less safe,0
+positive,Lesotho,,1
+positive,Lesotho,How much fun it will be,2
+positive,Lesotho,How it will make us all smarter and better educated,0
+positive,Lesotho,How easy it will make life,1
+positive,Lesotho,How it will bring the world together,0
+positive,Lesotho,Other (please specify),0
+positive,Lesotho,None of the above,0
+negative,Lesotho,,1
+negative,Lesotho,WeÛªll lose touch with one another,0
+negative,Lesotho,The loss of privacy,2
+negative,Lesotho,I have no fears about a more connected future,1
+negative,Lesotho,Other (please specify),0
+negative,Lesotho,WeÛªll be less safe,0
+positive,Uzbekistan,,0
+positive,Uzbekistan,How much fun it will be,0
+positive,Uzbekistan,How it will make us all smarter and better educated,0
+positive,Uzbekistan,How easy it will make life,0
+positive,Uzbekistan,How it will bring the world together,0
+positive,Uzbekistan,Other (please specify),0
+positive,Uzbekistan,None of the above,1
+negative,Uzbekistan,,0
+negative,Uzbekistan,WeÛªll lose touch with one another,0
+negative,Uzbekistan,The loss of privacy,0
+negative,Uzbekistan,I have no fears about a more connected future,0
+negative,Uzbekistan,Other (please specify),0
+negative,Uzbekistan,WeÛªll be less safe,0
+positive,Equatorial Guinea,,3
+positive,Equatorial Guinea,How much fun it will be,0
+positive,Equatorial Guinea,How it will make us all smarter and better educated,2
+positive,Equatorial Guinea,How easy it will make life,0
+positive,Equatorial Guinea,How it will bring the world together,1
+positive,Equatorial Guinea,Other (please specify),0
+positive,Equatorial Guinea,None of the above,0
+negative,Equatorial Guinea,,3
+negative,Equatorial Guinea,WeÛªll lose touch with one another,0
+negative,Equatorial Guinea,The loss of privacy,2
+negative,Equatorial Guinea,I have no fears about a more connected future,0
+negative,Equatorial Guinea,Other (please specify),0
+negative,Equatorial Guinea,WeÛªll be less safe,0
+positive,Liechtenstein,,0
+positive,Liechtenstein,How much fun it will be,1
+positive,Liechtenstein,How it will make us all smarter and better educated,1
+positive,Liechtenstein,How easy it will make life,3
+positive,Liechtenstein,How it will bring the world together,0
+positive,Liechtenstein,Other (please specify),0
+positive,Liechtenstein,None of the above,3
+negative,Liechtenstein,,0
+negative,Liechtenstein,WeÛªll lose touch with one another,0
+negative,Liechtenstein,The loss of privacy,6
+negative,Liechtenstein,I have no fears about a more connected future,0
+negative,Liechtenstein,Other (please specify),0
+negative,Liechtenstein,WeÛªll be less safe,0
+positive,Comoros,,3
+positive,Comoros,How much fun it will be,0
+positive,Comoros,How it will make us all smarter and better educated,1
+positive,Comoros,How easy it will make life,1
+positive,Comoros,How it will bring the world together,1
+positive,Comoros,Other (please specify),0
+positive,Comoros,None of the above,0
+negative,Comoros,,3
+negative,Comoros,WeÛªll lose touch with one another,0
+negative,Comoros,The loss of privacy,0
+negative,Comoros,I have no fears about a more connected future,1
+negative,Comoros,Other (please specify),0
+negative,Comoros,WeÛªll be less safe,0
+positive,Thailand,,53
+positive,Thailand,How much fun it will be,10
+positive,Thailand,How it will make us all smarter and better educated,32
+positive,Thailand,How easy it will make life,52
+positive,Thailand,How it will bring the world together,23
+positive,Thailand,Other (please specify),13
+positive,Thailand,None of the above,37
+negative,Thailand,,48
+negative,Thailand,WeÛªll lose touch with one another,0
+negative,Thailand,The loss of privacy,75
+negative,Thailand,I have no fears about a more connected future,17
+negative,Thailand,Other (please specify),16
+negative,Thailand,WeÛªll be less safe,0
+positive,Singapore,,13
+positive,Singapore,How much fun it will be,25
+positive,Singapore,How it will make us all smarter and better educated,20
+positive,Singapore,How easy it will make life,40
+positive,Singapore,How it will bring the world together,32
+positive,Singapore,Other (please specify),11
+positive,Singapore,None of the above,32
+negative,Singapore,,13
+negative,Singapore,WeÛªll lose touch with one another,0
+negative,Singapore,The loss of privacy,75
+negative,Singapore,I have no fears about a more connected future,16
+negative,Singapore,Other (please specify),11
+negative,Singapore,WeÛªll be less safe,0
+positive,Venezuela,,147
+positive,Venezuela,How much fun it will be,251
+positive,Venezuela,How it will make us all smarter and better educated,323
+positive,Venezuela,How easy it will make life,463
+positive,Venezuela,How it will bring the world together,235
+positive,Venezuela,Other (please specify),97
+positive,Venezuela,None of the above,150
+negative,Venezuela,,158
+negative,Venezuela,WeÛªll lose touch with one another,0
+negative,Venezuela,The loss of privacy,681
+negative,Venezuela,I have no fears about a more connected future,275
+negative,Venezuela,Other (please specify),73
+negative,Venezuela,WeÛªll be less safe,0
+positive,Dominica,,0
+positive,Dominica,How much fun it will be,0
+positive,Dominica,How it will make us all smarter and better educated,0
+positive,Dominica,How easy it will make life,1
+positive,Dominica,How it will bring the world together,0
+positive,Dominica,Other (please specify),0
+positive,Dominica,None of the above,0
+negative,Dominica,,0
+negative,Dominica,WeÛªll lose touch with one another,0
+negative,Dominica,The loss of privacy,1
+negative,Dominica,I have no fears about a more connected future,0
+negative,Dominica,Other (please specify),0
+negative,Dominica,WeÛªll be less safe,0
+positive,Nepal,,56
+positive,Nepal,How much fun it will be,10
+positive,Nepal,How it will make us all smarter and better educated,35
+positive,Nepal,How easy it will make life,31
+positive,Nepal,How it will bring the world together,33
+positive,Nepal,Other (please specify),5
+positive,Nepal,None of the above,10
+negative,Nepal,,63
+negative,Nepal,WeÛªll lose touch with one another,0
+negative,Nepal,The loss of privacy,57
+negative,Nepal,I have no fears about a more connected future,21
+negative,Nepal,Other (please specify),4
+negative,Nepal,WeÛªll be less safe,0
+positive,Japan,,5
+positive,Japan,How much fun it will be,14
+positive,Japan,How it will make us all smarter and better educated,32
+positive,Japan,How easy it will make life,35
+positive,Japan,How it will bring the world together,24
+positive,Japan,Other (please specify),13
+positive,Japan,None of the above,36
+negative,Japan,,5
+negative,Japan,WeÛªll lose touch with one another,0
+negative,Japan,The loss of privacy,81
+negative,Japan,I have no fears about a more connected future,7
+negative,Japan,Other (please specify),15
+negative,Japan,WeÛªll be less safe,0
+positive,Slovenia,,2
+positive,Slovenia,How much fun it will be,7
+positive,Slovenia,How it will make us all smarter and better educated,13
+positive,Slovenia,How easy it will make life,17
+positive,Slovenia,How it will bring the world together,14
+positive,Slovenia,Other (please specify),2
+positive,Slovenia,None of the above,18
+negative,Slovenia,,1
+negative,Slovenia,WeÛªll lose touch with one another,0
+negative,Slovenia,The loss of privacy,37
+negative,Slovenia,I have no fears about a more connected future,3
+negative,Slovenia,Other (please specify),4
+negative,Slovenia,WeÛªll be less safe,0
+positive,Korea, Republic of,,5
+positive,Korea, Republic of,How much fun it will be,4
+positive,Korea, Republic of,How it will make us all smarter and better educated,8
+positive,Korea, Republic of,How easy it will make life,13
+positive,Korea, Republic of,How it will bring the world together,6
+positive,Korea, Republic of,Other (please specify),5
+positive,Korea, Republic of,None of the above,9
+negative,Korea, Republic of,,5
+negative,Korea, Republic of,WeÛªll lose touch with one another,0
+negative,Korea, Republic of,The loss of privacy,25
+negative,Korea, Republic of,I have no fears about a more connected future,2
+negative,Korea, Republic of,Other (please specify),3
+negative,Korea, Republic of,WeÛªll be less safe,0
+positive,Seychelles,,0
+positive,Seychelles,How much fun it will be,0
+positive,Seychelles,How it will make us all smarter and better educated,0
+positive,Seychelles,How easy it will make life,1
+positive,Seychelles,How it will bring the world together,1
+positive,Seychelles,Other (please specify),0
+positive,Seychelles,None of the above,1
+negative,Seychelles,,0
+negative,Seychelles,WeÛªll lose touch with one another,0
+negative,Seychelles,The loss of privacy,0
+negative,Seychelles,I have no fears about a more connected future,0
+negative,Seychelles,Other (please specify),0
+negative,Seychelles,WeÛªll be less safe,0
+positive,Russian Federation,,9
+positive,Russian Federation,How much fun it will be,10
+positive,Russian Federation,How it will make us all smarter and better educated,43
+positive,Russian Federation,How easy it will make life,41
+positive,Russian Federation,How it will bring the world together,36
+positive,Russian Federation,Other (please specify),9
+positive,Russian Federation,None of the above,39
+negative,Russian Federation,,10
+negative,Russian Federation,WeÛªll lose touch with one another,0
+negative,Russian Federation,The loss of privacy,79
+negative,Russian Federation,I have no fears about a more connected future,8
+negative,Russian Federation,Other (please specify),12
+negative,Russian Federation,WeÛªll be less safe,0
+positive,Colombia,,143
+positive,Colombia,How much fun it will be,323
+positive,Colombia,How it will make us all smarter and better educated,395
+positive,Colombia,How easy it will make life,550
+positive,Colombia,How it will bring the world together,266
+positive,Colombia,Other (please specify),171
+positive,Colombia,None of the above,466
+negative,Colombia,,166
+negative,Colombia,WeÛªll lose touch with one another,0
+negative,Colombia,The loss of privacy,1072
+negative,Colombia,I have no fears about a more connected future,217
+negative,Colombia,Other (please specify),123
+negative,Colombia,WeÛªll be less safe,0
+positive,Anonymous Proxy,,2
+positive,Anonymous Proxy,How much fun it will be,2
+positive,Anonymous Proxy,How it will make us all smarter and better educated,4
+positive,Anonymous Proxy,How easy it will make life,3
+positive,Anonymous Proxy,How it will bring the world together,5
+positive,Anonymous Proxy,Other (please specify),8
+positive,Anonymous Proxy,None of the above,14
+negative,Anonymous Proxy,,2
+negative,Anonymous Proxy,WeÛªll lose touch with one another,0
+negative,Anonymous Proxy,The loss of privacy,24
+negative,Anonymous Proxy,I have no fears about a more connected future,0
+negative,Anonymous Proxy,Other (please specify),4
+negative,Anonymous Proxy,WeÛªll be less safe,0
+positive,Vanuatu,,0
+positive,Vanuatu,How much fun it will be,0
+positive,Vanuatu,How it will make us all smarter and better educated,0
+positive,Vanuatu,How easy it will make life,1
+positive,Vanuatu,How it will bring the world together,2
+positive,Vanuatu,Other (please specify),0
+positive,Vanuatu,None of the above,0
+negative,Vanuatu,,0
+negative,Vanuatu,WeÛªll lose touch with one another,0
+negative,Vanuatu,The loss of privacy,2
+negative,Vanuatu,I have no fears about a more connected future,1
+negative,Vanuatu,Other (please specify),0
+negative,Vanuatu,WeÛªll be less safe,0
+positive,Kuwait,,2
+positive,Kuwait,How much fun it will be,2
+positive,Kuwait,How it will make us all smarter and better educated,2
+positive,Kuwait,How easy it will make life,5
+positive,Kuwait,How it will bring the world together,1
+positive,Kuwait,Other (please specify),2
+positive,Kuwait,None of the above,6
+negative,Kuwait,,2
+negative,Kuwait,WeÛªll lose touch with one another,0
+negative,Kuwait,The loss of privacy,6
+negative,Kuwait,I have no fears about a more connected future,0
+negative,Kuwait,Other (please specify),3
+negative,Kuwait,WeÛªll be less safe,0
+positive,Ghana,,28
+positive,Ghana,How much fun it will be,10
+positive,Ghana,How it will make us all smarter and better educated,19
+positive,Ghana,How easy it will make life,30
+positive,Ghana,How it will bring the world together,8
+positive,Ghana,Other (please specify),3
+positive,Ghana,None of the above,7
+negative,Ghana,,27
+negative,Ghana,WeÛªll lose touch with one another,0
+negative,Ghana,The loss of privacy,40
+negative,Ghana,I have no fears about a more connected future,9
+negative,Ghana,Other (please specify),4
+negative,Ghana,WeÛªll be less safe,0
+positive,Lithuania,,6
+positive,Lithuania,How much fun it will be,7
+positive,Lithuania,How it will make us all smarter and better educated,12
+positive,Lithuania,How easy it will make life,18
+positive,Lithuania,How it will bring the world together,11
+positive,Lithuania,Other (please specify),7
+positive,Lithuania,None of the above,8
+negative,Lithuania,,6
+negative,Lithuania,WeÛªll lose touch with one another,0
+negative,Lithuania,The loss of privacy,34
+negative,Lithuania,I have no fears about a more connected future,1
+negative,Lithuania,Other (please specify),5
+negative,Lithuania,WeÛªll be less safe,0
+positive,Zimbabwe,,7
+positive,Zimbabwe,How much fun it will be,8
+positive,Zimbabwe,How it will make us all smarter and better educated,5
+positive,Zimbabwe,How easy it will make life,30
+positive,Zimbabwe,How it will bring the world together,9
+positive,Zimbabwe,Other (please specify),0
+positive,Zimbabwe,None of the above,2
+negative,Zimbabwe,,7
+negative,Zimbabwe,WeÛªll lose touch with one another,0
+negative,Zimbabwe,The loss of privacy,23
+negative,Zimbabwe,I have no fears about a more connected future,12
+negative,Zimbabwe,Other (please specify),3
+negative,Zimbabwe,WeÛªll be less safe,0
+positive,San Marino,,1
+positive,San Marino,How much fun it will be,2
+positive,San Marino,How it will make us all smarter and better educated,1
+positive,San Marino,How easy it will make life,5
+positive,San Marino,How it will bring the world together,2
+positive,San Marino,Other (please specify),3
+positive,San Marino,None of the above,1
+negative,San Marino,,0
+negative,San Marino,WeÛªll lose touch with one another,0
+negative,San Marino,The loss of privacy,4
+negative,San Marino,I have no fears about a more connected future,0
+negative,San Marino,Other (please specify),3
+negative,San Marino,WeÛªll be less safe,0
