@@ -6,16 +6,15 @@
 # How to run it:
 - start up a server (python or otherwise) and open up the index page at the root of the directory. you can navigate to the visualizations from here!
 
-- For Visualization 1:  
+### For Visualization 1:  
 1. Download the and extract zip of the repo, or just download the folder JustinChin from the repo.    
 2. Run Anaconda and open up the Jupyter notebook named JChin_Mozilla_Graphs in JustinChin folder.
 3. Run all of the cells in the notebook with Python2 as the interpretter
 
-# Visualization 1: Graph Comparison of Country Average Technology Sentiment and Ownership:
-<h3>Contributor: Justin Chin </h3>
-
+# Visualization 1: Graph Comparison of Country Average Technology Sentiment and Ownership (Justin Chin) :
 <h4>Attributions</h4>
 Bokeh boxplot code modified from https://bokeh.pydata.org/en/latest/docs/gallery/boxplot.html
+
 Widgets snippet from http://bokeh.pydata.org/en/latest/docs/user_guide/interaction/widgets.html#userguide-interaction-widgets
 
 <h4>Attributes Analyzed/Visualized: </h4>
@@ -27,6 +26,7 @@ Widgets snippet from http://bokeh.pydata.org/en/latest/docs/user_guide/interacti
 </ol>
 
 <h4> Process </h4>
+<h5>Preprocessing</h5>
 First filtered country surveys by removing countries with less than 1000 surveys submitted.
 
 Converted text responses to ordinal variables.
@@ -58,12 +58,15 @@ Converted text responses to ordinal variables.
 - This question was answered by plotting boxplot of each question answered for a selected country by each binned sentiment response (-2,-1,0,1,2).
 - A dropdown menu allowed the user to select which country he/she would like to drilldown and inspect the distribution of responses.
 
+<h4> Design Considerations </h5>
+
 <h4>Bells and Whistles </h4>
 <ol>
   <li> removed Other/Custom responses from the raw dataset. </li>
   <li> replaced NaN responses with 0s. </li>
   <li> The two scatter plots correlating average # owned electronics and knowledge of technology with sentiment for the future are linked graphs.  Clicking a point (Country) in one scatter plot shows the country's position in the other corresponding scatter plot.  </li>
   <li> Dropdown menu for selecting a country allows for drill down of the distribution of responses, using boxplots, for individual responses (# of owned electronics and technological knowledge ) for each sentiment response group</li>
+  <li> Semantic Zoom:  Users can look at the overall average sentiment and survey responses for each country, or drill down to individual response from each country, using the dropdown menu at the top of the visualization, binned by their sentitment response.</li>
 </ol>
 
 # visualization 2 (Hunter):
