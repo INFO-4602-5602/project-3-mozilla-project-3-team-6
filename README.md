@@ -22,6 +22,8 @@ Widgets snippet from http://bokeh.pydata.org/en/latest/docs/user_guide/interacti
 </ol>
 
 <h4> Process </h4>
+First filtered country surveys by removing countries with less than 1000 surveys submitted.
+
 Converted text responses to ordinal variables.
 <ol>
 <li> I consider myself:
@@ -42,10 +44,19 @@ Converted text responses to ordinal variables.
   <li>Super excited! I can't wait for everything to be connected. My life will be so much better. = 2 </li>
   </ul>
 </ol>
+
+<h4>Chart Description</h4>
+- Question 1: Is the average number of owned electronics or "knowledge of technology" correlated to each country's average sentiment for the future of tech?  This is answered with two coordinated scatter plots that plots each of these averaged values versus the average sentiment.
+- Question 2: For a country, what is the distribution of individual responses based on their sentiment for the future of tech?  We can drill down and look at the distribution of each sentiment response groups to see if there are any correlations since this is likely hidden when calculating overall averages.  For example, for a country, like the US, did survey responders who reported having a negative outlook of the future own more electronics or were more knowledgable about technology?  
+- This question was answered by plotting boxplot of each question answered for a selected country by each binned sentiment response (-2,-1,0,1,2).
+- A dropdown menu allowed the user to select which country he/she would like to drilldown and inspect the distribution of responses.
+
 <h4>Bells and Whistles </h4>
 <ol>
   <li> removed Other/Custom responses from the raw dataset. </li>
   <li> replaced NaN responses with 0s. </li>
+  <li> The two scatter plots correlating average # owned electronics and knowledge of technology with sentiment for the future are linked graphs.  Clicking a point (Country) in one scatter plot shows the country's position in the other corresponding scatter plot.  </li>
+  <li> Dropdown menu for selecting a country allows for drill down of the distribution of responses, using boxplots, for individual responses (# of owned electronics and technological knowledge ) for each sentiment response group</li>
 </ol>
 
 # visualization 2 (Hunter):
