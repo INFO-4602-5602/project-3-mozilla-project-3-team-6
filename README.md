@@ -89,3 +89,24 @@ I chose two "feelings about the future" questions from the dataset. These questi
 - removed countries which had no responses for questions
 
 # visualization 3 (Chris):
+"Device Usage Accross Various Users"
+I wanted to demonstrate the categorical relationship between device usage and the type of users that use these devices. This is intended to suppliment the message of the other two visualizations, where an observer may ask the question: "I see now how people's oppinions vary across responses, but what does the current state of the technology market look like across various types of users?" The interesting comparison here is between the Luddites and normal users, as well as between the Average and Savvy crowds. 
+
+## Process:
+- scrub.py task1:
+	- Scrubs through the original .csv for all data
+	- Organizes data in nested Python dictionaries
+	- Pickles resulting dict for easy/quick recall
+- scrub.py task2:
+	- Loads Pickled data
+	- Filters data by header and search criteria
+		- Generates new dict of each matching criteria in headers_1
+		- Values are populated by each criteria in headers_2
+		- Created this way to allow for full flexibility in choice of data
+	- Outputs new, refined data into .csv for d3 to use
+- godley_vis/index.html:
+	- D3 was used to generate the bar chart and display it on an html page
+	- Leveraged multiple internet resources for final result
+
+#### Bells and Whistles
+- Missing Data: Removed empty responses during task2 of scrub.py

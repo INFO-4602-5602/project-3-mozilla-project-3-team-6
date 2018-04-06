@@ -15,8 +15,14 @@
 	text-align: center;
 }
 </style>
+<h1>Device Usage Accross Various Users</h1>
+<h4>User Hierarchy: Luddite -> Average -> Savvy -> Nerd</h4>
 <svg width="960" height="500"></svg>
+<div id="scatterplot">
+	<p id="scatterLabel">Click bar for user report</p>
+</div>
 <script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
 <script>
 
 var svg = d3.select("svg"),
@@ -39,6 +45,10 @@ var z = d3.scaleOrdinal()
     .range(["#98abc5", "#8a89a6", "#7b6888", "#6b486b", "#a05d56", "#d0743c", "#ff8c00"]);
 
 var tooltip = d3.select("body").append("div").attr("class", "toolTip")
+
+function click(d, x, y) {
+	$("p[id='scatterLabel']").html(y + " " + x + " users");
+}
 
 d3.csv("data.csv", function(d, i, columns) {
   for (var i = 1, n = columns.length; i < n; ++i) d[columns[i]] = +d[columns[i]];
@@ -66,10 +76,10 @@ d3.csv("data.csv", function(d, i, columns) {
       .attr("width", x1.bandwidth())
       .attr("height", function(d) { return height - y(d.value); })
       .attr("fill", function(d) { return z(d.key); })
+	  .on("click", function(d) { click(d, d.key, d.value) })
 	  .on("mouseover", function() {
 		d3.select(this)
 			.attr("fill", "red")
-			.text(function(d) { return d.key; })
 	  })
 	  .on("mouseout", function(d, i) {
 		d3.select(this).attr("fill", function(d) { return z(d.key); })
