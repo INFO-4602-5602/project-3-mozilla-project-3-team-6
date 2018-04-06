@@ -90,7 +90,7 @@ I chose two "feelings about the future" questions from the dataset. These questi
 
 # visualization 3 (Chris):
 "Device Usage Accross Various Users"
-I wanted to demonstrate the categorical relationship between device usage and the type of users that use these devices. This is intended to suppliment the message of the other two visualizations, where an observer may ask the question: "I see now how people's oppinions vary across responses, but what does the current state of the technology market look like across various types of users?" The interesting comparison here is between the Luddites and normal users, as well as between the Average and Savvy crowds. 
+I wanted to demonstrate the categorical relationship between device usage and the type of users that use these devices. This is intended to suppliment the message of the other two visualizations, where an observer may ask the question: "I see now how people's oppinions vary across responses, but what does the current state of the technology market look like across various types of users?" The interesting comparison here is between the Luddites and normal users, as well as between the Average and Savvy crowds. To best convey this relationship, I chose to plot the actual number of users from each category of user for each type of device. Color was used to differentiate between user types, and clicking on the bar would show the corresponding value below. This helps clarify the separation between bars that appear close in value. 
 
 ## Process:
 - scrub.py task1:
