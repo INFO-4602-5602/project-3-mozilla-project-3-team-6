@@ -157,3 +157,15 @@ if __name__ == "__main__":
     #pickle.dump(new_data, open("filtered_data.p", "wb"))
     new_data = pickle.load(open("filtered_data.p", "rb"))
     print(new_data)
+    with open("data.csv", "w") as f:
+        f.write("SmartDevice"+",")
+        for entry in new_data:
+            f.write(entry+",")
+        f.write("\n")
+        for crit in new_data["Savvy"]:
+            if crit == "total":
+                continue
+            f.write(crit+",")
+            for entry in new_data:
+                f.write(str(new_data[entry][crit])+",")
+            f.write("\n")
