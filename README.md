@@ -6,6 +6,11 @@
 # How to run it:
 - start up a server (python or otherwise) and open up the index page at the root of the directory. you can navigate to the visualizations from here!
 
+- For Visualization 1:  
+1. Download the and extract zip of the repo, or just download the folder JustinChin from the repo.    
+2. Run Anaconda and open up the Jupyter notebook named JChin_Mozilla_Graphs in JustinChin folder.
+3. Run all of the cells in the notebook with Python2 as the interpretter
+
 # Visualization 1: Graph Comparison of Country Average Technology Sentiment and Ownership:
 <h3>Contributor: Justin Chin </h3>
 
