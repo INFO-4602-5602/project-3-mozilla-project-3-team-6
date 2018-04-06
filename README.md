@@ -9,6 +9,10 @@
 # Visualization 1: Graph Comparison of Country Average Technology Sentiment and Ownership:
 <h3>Contributor: Justin Chin </h3>
 
+<h4>Attributions</h4>
+Bokeh boxplot code modified from https://bokeh.pydata.org/en/latest/docs/gallery/boxplot.html
+Widgets snippet from http://bokeh.pydata.org/en/latest/docs/user_guide/interaction/widgets.html#userguide-interaction-widgets
+
 <h4>Attributes Analyzed/Visualized: </h4>
 <ol>
   <li> I consider myself: </li>  
